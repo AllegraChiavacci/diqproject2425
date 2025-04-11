@@ -4,7 +4,8 @@ The aim of the project is the application of Data Preparation Pipeline on a dirt
 The repository contains: 
 - the report with a detailed description of our work, 
 - the Python code that you can execute in Google Colab,
-- the cleaned dataset in .csv format                                 
+- the cleaned dataset in .csv format
+                      
 If you want to execute the Python code in Colab, be sure to have the dataset .csv file in the same folder of the .ipynb file.       
 Group Components:                                              
 - Alessandro Cavallo
