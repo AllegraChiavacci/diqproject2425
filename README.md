@@ -5,7 +5,7 @@ The repository contains:
 - the report with a detailed description of our work, 
 - the Python code that you can execute in Google Colab,
 - the cleaned dataset in .csv format
-
+If you want to execute the Python code in Colab, be sure to have the dataset .csv file in the same folder of the .ipynb file.
 Group Components:                                              
 - Alessandro Cavallo
 - Allegra Chiavacci
