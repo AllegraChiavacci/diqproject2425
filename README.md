@@ -4,7 +4,7 @@ The aim of the project is the application of Data Preparation Pipeline on a dirt
 
 Group Components: 
 
-Alessandro Cavallo
+Alessandro Cavallo                                                                           
 Allegra Chiavacci
 
 Grade: 4/4 points
