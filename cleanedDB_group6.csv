@@ -1,0 +1,902 @@
+SettoreMerceologico,Insegna,TipoVia,Via,Civico,CodiceVia,ZD,SuperficieVendita,SuperficieAltriUsi,SuperficieTotale,TipoAccesso,Isolato
+Non specificato,Non presente,Piazza,CORDUSIO,2,626,1,292.0,0.0,292.0,accesso esterno,436
+Non specificato,Non presente,Ripa,DI PTA TICINESE,73,5150,6,800.0,0.0,800.0,Non specificato,86
+Non specificato,Non presente,Via,ALBERICO DA ROSCIATE,5,6589,7,726.0,0.0,726.0,Non specificato,181
+Non specificato,Non presente,Via,ASTESANI ALESSANDRO,17,1558,9,370.0,0.0,370.0,accesso esterno,100
+Non specificato,Non presente,Via,MONTE NAPOLEONE,6,219,1,270.0,0.0,270.0,Non specificato,280
+Non specificato,Non presente,Via,ROGOREDO,0,4373,4,15930.0,0.0,15930.0,Non specificato,63
+Non specificato,esselunga,Via,DOMENICHINO,2,6383,7,795.0,622.0,1417.0,accesso esterno,227
+Non specificato,esselunga,Viale,VIGLIANI PAOLO ONORATO,59,6422,8,1225.0,0.0,1225.0,accesso esterno,169
+Non specificato,in s mercato,Via,DELLE BETULLE,12,6828,7,620.0,766.0,1386.0,accesso esterno,240
+Non specificato,la rinascente,Via,SANTA RADEGONDA,3,208,1,20340.0,0.0,20340.0,accesso esterno,417
+Non specificato,pam,Via,PADOVA,111,2275,2,400.0,729.0,1129.0,accesso esterno,279
+Non specificato,supermarket,Via,ROSSI PELLEGRINO,33,1510,9,1197.0,0.0,1197.0,accesso esterno,182
+Settore alimentare,Non presente,Piazzale,SELINUNTE,2,6566,7,330.0,423.0,753.0,Non specificato,204
+Settore alimentare,Non presente,Via,DEI PIATTI,3,532,1,490.0,18.0,508.0,accesso esterno,427
+Settore alimentare,in s mercato,Via,ROMBON,34,2659,3,550.0,215.0,765.0,accesso esterno,98
+Settore alimentare,punto sma,Via,MAGGI CARLO MARIA,10,7115,1,280.0,178.0,458.0,accesso esterno,124
+Non specializzato,Non presente,Corso,MATTEOTTI GIACOMO,14,218,1,384.0,0.0,384.0,accesso esterno,316
+Non specializzato,Non presente,Via,EDOLO,26,1217,2,589.0,0.0,589.0,accesso interno,148
+Non specializzato,Non presente,Galleria,DEL CORSO,4,305,1,2381.0,785.0,3166.0,Non specificato,333
+Non specializzato,Non presente,Piazzale,FERRARA,2,4158,4,536.0,1.0,537.0,accesso interno,125
+Non specializzato,Non presente,Piazzale,SELINUNTE,2,6566,7,329.0,323.0,652.0,accesso esterno,204
+Non specializzato,Non presente,Piazza,DEL DUOMO,31,1,1,757.0,35.0,792.0,accesso esterno,419
+Non specializzato,Non presente,Piazza,DELLA TRIVULZIANA,6,1765,9,1130.0,655.0,1785.0,Non specificato,58
+Non specializzato,Non presente,Piazza,SIGMUND FREUD,1,1705,9,800.0,100.0,900.0,Non specificato,259
+Non specializzato,Non presente,Corso,VERCELLI,20,6193,7,4413.0,2087.0,6500.0,Non specificato,219
+Non specializzato,Non presente,Via,GRASSI GIOVANNI BATTISTA,98,7465,8,1000.0,564.0,1564.0,accesso esterno,45
+Non specializzato,Non presente,Via,ANTONINI GIACOMO,32,4250,5,1499.0,774.0,2273.0,Non specificato,97
+Non specializzato,Non presente,Via,ARCO,2,714,1,364.0,627.0,991.0,accesso esterno,295
+Non specializzato,Non presente,Via,BENADIR,5,2380,2,2500.0,0.0,2500.0,accesso esterno,288
+Non specializzato,Non presente,Via,BIANCHI MOSE',94,6385,7,271.0,0.0,271.0,accesso interno,220
+Non specializzato,Non presente,Via,BICOCCA DEGLI ARCIMBOLDI,0,1728,9,5500.0,4296.0,9796.0,accesso esterno,73
+Non specializzato,Non presente,Via,CHIOSTERGI GIUSEPPE,13,6850,7,536.0,100.0,636.0,accesso esterno,18
+Non specializzato,Non presente,Via,DON RODRIGO,7,5416,5,751.0,349.0,1100.0,Non specificato,71
+Non specializzato,Non presente,Via,GOZZOLI BENOZZO,130,6789,7,6000.0,2000.0,8000.0,Non specificato,207
+Non specializzato,Non presente,Via,GUINTELLINO GUGLIELMO,26,5369,6,1491.0,0.0,1491.0,Non specificato,40
+Non specializzato,Non presente,Via,LOMBROSO CESARE,54,3334,4,800.0,100.0,900.0,accesso esterno,91
+Non specializzato,Non presente,Via,LORENTEGGIO,219,5132,6,4300.0,3697.0,7997.0,Non specificato,60
+Non specializzato,Non presente,Via,LORENTEGGIO,240,5132,6,1012.0,240.0,1252.0,Non specificato,59
+Non specializzato,Non presente,Via,LUDOVICO DI BREME,25,7396,8,1035.0,410.0,1445.0,accesso esterno,221
+Non specializzato,Non presente,Via,MAGREGLIO,10,7486,8,535.0,285.0,820.0,Non specificato,109
+Non specializzato,Non presente,Via,MARGHERA,36,6280,7,314.0,0.0,314.0,accesso esterno,212
+Non specializzato,Non presente,Via,MAURI ANGELO,5,6296,7,1050.0,850.0,1900.0,Non specificato,240
+Non specializzato,Non presente,Via,MEDEGHINO,11,5335,5,939.0,698.0,1637.0,accesso esterno,47
+Non specializzato,Non presente,Viale,TESTI FULVIO,260,1441,9,4280.0,1194.0,5474.0,Non specificato,59
+Non specializzato,Non presente,Via,PIRELLI GIOVANNI BATTISTA,30,1195,9,381.0,0.0,381.0,accesso esterno,297
+Non specializzato,Non presente,Via,PONTE VETERO,14,718,1,300.0,0.0,300.0,Non specificato,300
+Non specializzato,Non presente,Via,RIPAMONTI GIUSEPPE,37,4066,5,673.0,436.0,1109.0,accesso esterno,170
+Non specializzato,Non presente,Via,SAPRI,83,7441,8,360.0,0.0,360.0,accesso esterno,145
+Non specializzato,Non presente,Via,SARPI FRA' PAOLO,44,7210,8,252.0,0.0,252.0,accesso esterno,73
+Non specializzato,Non presente,Via,VISCONTI ALEX,24,7529,8,653.0,88.0,741.0,accesso interno,3
+Non specializzato,Non presente,Viale,CASSALA,15,5275,6,385.0,0.0,385.0,accesso esterno,59
+Non specializzato,Non presente,Viale,GIOVANNI DA CERMENATE,62,5261,5,1130.0,822.0,1952.0,Non specificato,23
+Non specializzato,Non presente,Viale,MOLISE,56,3178,4,1000.0,0.0,1000.0,accesso esterno,89
+Non specializzato,Non presente,Viale,SUZZANI GIOVANNI,221,1446,9,2500.0,2734.0,5234.0,Non specificato,73
+Non specializzato,acquazzurra,Via,MARCO D'AGRATE,8,4276,5,355.0,95.0,450.0,accesso interno,1
+Non specializzato,benetton,Corso,BUENOS AIRES,19,2129,3,2351.0,349.0,2700.0,accesso esterno,78
+Non specializzato,blockbuster,Via,BOLZANO,1,2312,2,492.0,18.0,510.0,accesso esterno,307
+Non specializzato,blockbuster,Via,BOSCOVICH RUGGERO,49,2131,3,293.0,83.0,376.0,accesso esterno,74
+Non specializzato,blockbuster,Via,CARONCINI ALBERTO,6,4093,4,400.0,127.0,527.0,accesso esterno,147
+Non specializzato,blockbuster,Via,SAN SIRO,3,6282,7,300.0,22.0,322.0,accesso esterno,194
+Non specializzato,blockbuster,Viale,MARCHE,63,1360,9,350.0,30.0,380.0,accesso esterno,165
+Non specializzato,blockbuster,Viale,MISURATA,18,6123,6,300.0,98.0,398.0,accesso esterno,83
+Non specializzato,blockbuster,Viale,PAPINIANO,16,5097,1,450.0,85.0,535.0,accesso esterno,282
+Non specializzato,blockbuster,Viale,PICENO,19,3114,4,400.0,15.0,415.0,accesso esterno,30
+Non specializzato,blockbuster,Viale,SABOTINO,15,4046,5,400.0,80.0,480.0,accesso esterno,92
+Non specializzato,botanic,Via,GROSOTTO,9,7328,8,1400.0,236.0,1636.0,accesso esterno,249
+Non specializzato,carrefour,Corso,DI PORTA VIGENTINA,36,4026,1,300.0,89.0,389.0,accesso esterno,119
+Non specializzato,carrefour,Via,MURATORI LODOVICO,27,4076,4,2100.0,1102.0,3202.0,accesso esterno,118
+Non specializzato,carrefour,Corso,VERCELLI,20,6193,7,300.0,88.0,388.0,accesso esterno,216
+Non specializzato,carrefour,Via,MAFFUCCI ANGIOLO,4,1276,9,600.0,470.0,1070.0,accesso esterno,333
+Non specializzato,carrefour,Piazzale,SIENA,18,6616,7,1040.0,1005.0,2045.0,accesso esterno,199
+Non specializzato,carrefour,Piazza,ANGILBERTO II,9,4278,5,950.0,645.0,1595.0,accesso esterno,121
+Non specializzato,carrefour,Via,AMPERE ANDREA MARIA,103,2428,3,360.0,63.0,423.0,accesso esterno,11
+Non specializzato,carrefour,Via,DELLA MOSCOVA,30,1016,1,454.0,158.0,612.0,accesso esterno,9
+Non specializzato,carrefour,Via,DOLCI CARLO,8,6555,7,308.0,136.0,444.0,accesso esterno,255
+Non specializzato,carrefour,Via,EDOLO,26,1217,2,380.0,79.0,459.0,accesso esterno,146
+Non specializzato,carrefour,Via,FALCK ENRICO,33,7438,8,380.0,20.0,400.0,accesso esterno,13
+Non specializzato,carrefour,Via,FARINI CARLO,77,1114,9,1580.0,1260.0,2840.0,accesso esterno,153
+Non specializzato,carrefour,Via,GIANELLA GIUSEPPE,21,6775,7,395.0,16.0,411.0,accesso esterno,145
+Non specializzato,carrefour,Via,GROSSICH ANTONIO,3,2576,3,398.0,272.0,670.0,accesso esterno,79
+Non specializzato,carrefour,Via,INAMA VIRGILIO,4,3169,3,398.0,363.0,761.0,accesso esterno,162
+Non specializzato,carrefour,Via,LOMAZZO PAOLO,41,7079,8,395.0,72.0,467.0,accesso esterno,54
+Non specializzato,carrefour,Via,MAGISTRETTI PIETRO,7,2466,2,380.0,96.0,476.0,accesso esterno,94
+Non specializzato,carrefour,Via,PORPORA NICOLA ANTONIO,125,2229,3,390.0,117.0,507.0,accesso esterno,14
+Non specializzato,carrefour,Via,PORRO LAMBERTENGHI LUIGI,16,1142,9,300.0,86.0,386.0,accesso esterno,264
+Non specializzato,carrefour,Via,SAN MARCO,26,1036,1,269.0,95.0,364.0,accesso esterno,177
+Non specializzato,carrefour,Via,SAN SENATORE,16,404,1,368.0,56.0,424.0,accesso esterno,271
+Non specializzato,carrefour,Via,SARPI FRA' PAOLO,33,7210,1,2442.0,2456.0,4898.0,accesso esterno,113
+Non specializzato,carrefour,Via,SISMONDI GIANCARLO,35,3256,4,398.0,402.0,800.0,accesso esterno,218
+Non specializzato,carrefour,Via,SODERINI LUIGI,48,6675,6,1308.0,802.0,2110.0,accesso esterno,70
+Non specializzato,carrefour,Via,SPINOZA BENEDETTO,4,2205,3,957.0,998.0,1955.0,accesso esterno,98
+Non specializzato,carrefour,Via,TEANO,6,1632,9,390.0,54.0,444.0,accesso esterno,6
+Non specializzato,carrefour,Via,VOLTRI,8,5354,6,292.0,130.0,422.0,accesso esterno,231
+Non specializzato,carrefour,Viale,ABRUZZI,54,2177,3,370.0,43.0,413.0,accesso esterno,65
+Non specializzato,carrefour,Viale,FAMAGOSTA,16,5353,6,980.0,805.0,1785.0,accesso esterno,76
+Non specializzato,carrefour,Viale,TESTI FULVIO,90,1441,9,1008.0,522.0,1530.0,accesso esterno,145
+Non specializzato,centro botanico,Via,CORRENTI CESARE,10,555,1,489.0,157.0,646.0,accesso esterno,281
+Non specializzato,centro sposi paradiso,Via,COSTA ANDREA,1,2276,2,305.0,0.0,305.0,accesso esterno,358
+Non specializzato,cityper sma,Via,MARIANI POMPEO,2,2490,2,2495.0,0.0,2495.0,accesso esterno,120
+Non specializzato,coin,Corso,VERCELLI,30,6193,7,3500.0,1300.0,4800.0,accesso esterno,216
+Non specializzato,coin,Piazzale,CANTORE ANTONIO,12,5103,6,3470.0,1285.0,4755.0,accesso esterno,40
+Non specializzato,coin,Piazzale,LORETO,16,2264,2,1910.0,1100.0,3010.0,accesso esterno,357
+Non specializzato,conad,Piazzale,BOLOGNA,7,4172,4,670.0,645.0,1315.0,accesso esterno,5
+Non specializzato,conad,Piazzale,BAIAMONTI ANTONIO,4,7235,9,1166.0,0.0,1166.0,accesso interno,233
+Non specializzato,conad,Via,CEFALONIA,10,7439,8,808.0,461.0,1269.0,accesso esterno,146
+Non specializzato,conad,Via,GONIN FRANCESCO,71,5376,6,800.0,492.0,1292.0,accesso esterno,155
+Non specializzato,conad,Via,ROSSI PELLEGRINO,80,1510,9,360.0,320.0,680.0,accesso esterno,183
+Non specializzato,conad,Via,VENINI GIULIO E CORRADO,87,2258,2,680.0,510.0,1190.0,accesso esterno,120
+Non specializzato,coop,Via,FREIKOFEL,2,4367,4,654.0,0.0,654.0,accesso esterno,88
+Non specializzato,coop,Via,ORNATO LUIGI,28,1591,9,1200.0,0.0,1200.0,accesso esterno,70
+Non specializzato,crai,Viale,BLIGNY,54,4045,5,280.0,0.0,280.0,accesso esterno,108
+Non specializzato,decathlon,Foro,BUONAPARTE,74,711,1,2850.0,1350.0,4200.0,accesso esterno,240
+Non specializzato,dico,Via,BASSI UGO,1,1143,9,600.0,0.0,600.0,accesso esterno,257
+Non specializzato,di per di,Via,DARWIN CARLO ROBERTO,2,5238,6,390.0,128.0,518.0,accesso esterno,81
+Non specializzato,di per di,Largo,SCALABRINI GIOVANNI BATTISTA,1,5392,6,320.0,360.0,680.0,accesso esterno,142
+Non specializzato,di per di,Via,OLGETTINA,60,2530,3,317.0,178.0,495.0,accesso interno,4
+Non specializzato,di per di,Via,CASATI FELICE,32,2122,2,310.0,69.0,379.0,accesso esterno,96
+Non specializzato,di per di,Via,CONCA DEL NAVIGLIO,37,5180,1,440.0,73.0,513.0,accesso esterno,128
+Non specializzato,di per di,Via,DELLE ORCHIDEE,4,6717,6,280.0,240.0,520.0,accesso esterno,35
+Non specializzato,di per di,Via,PARAVIA PIER ALESSANDRO,77,6571,7,382.0,174.0,556.0,accesso esterno,241
+Non specializzato,di per di,Viale,GIOVANNI DA CERMENATE,27,5261,5,278.0,88.0,366.0,accesso esterno,10
+Non specializzato,discount,Via,ZOCCHI CESARE,1,1301,9,300.0,150.0,450.0,accesso esterno,25
+Non specializzato,di per di,Via,BERTANI AGOSTINO,2,7112,1,260.0,105.0,365.0,accesso esterno,135
+Non specializzato,di x di il supermercato,Via,VILLAPIZZONE,18,7272,8,470.0,195.0,665.0,accesso esterno,99
+Non specializzato,dugan,Via,PIRANESI GIOVANNI BATTISTA,4,3263,4,312.0,216.0,528.0,accesso esterno,27
+Non specializzato,ecom,Corso,LODI,65,4068,4,600.0,300.0,900.0,accesso esterno,23
+Non specializzato,esselunga,Via,BERGAMO,10,3189,4,1200.0,112.0,1312.0,accesso esterno,112
+Non specializzato,esselunga,Via,CAGLIERO GIOVANNI,14,1407,2,1018.0,266.0,1284.0,accesso esterno,123
+Non specializzato,esselunga,Via,DE ANGELI CARLO,1,4326,5,4649.0,1620.0,6269.0,accesso interno,81
+Non specializzato,esselunga,Via,DELLE FORZE ARMATE,199,6643,7,1400.0,508.0,1908.0,accesso esterno,181
+Non specializzato,esselunga,Via,HAYEZ FRANCESCO,14,2172,3,1700.0,0.0,1700.0,accesso esterno,73
+Non specializzato,esselunga,Via,ISOTTA CESARE,7,4354,5,2900.0,0.0,2900.0,accesso esterno,77
+Non specializzato,esselunga,Via,MAC MAHON,128,7221,8,1200.0,676.0,1876.0,accesso esterno,269
+Non specializzato,esselunga,Via,MORGANTINI MARIO,15,6568,7,1060.0,594.0,1654.0,accesso esterno,280
+Non specializzato,esselunga,Via,NOVARA,86,6624,7,2490.0,1486.0,3976.0,accesso esterno,129
+Non specializzato,esselunga,Via,PALIZZI FILIPPO,69,7451,8,5040.0,1873.0,6913.0,Non specificato,107
+Non specializzato,esselunga,Via,PEZZOTTI GIOVANNI,0,5244,5,1490.0,0.0,1490.0,accesso esterno,17
+Non specializzato,esselunga,Via,FELTRE,30,2652,3,3800.0,2250.0,6050.0,accesso esterno,134
+Non specializzato,esselunga,Viale,CASSALA,22,5275,6,1191.0,0.0,1191.0,accesso esterno,154
+Non specializzato,esselunga,Viale,PAPINIANO,27,5097,1,1400.0,996.0,2396.0,accesso esterno,64
+Non specializzato,esselunga,Viale,PIAVE,38,2179,3,1400.0,422.0,1822.0,accesso esterno,151
+Non specializzato,esselunga,Viale,ZARA,123,1170,9,1700.0,0.0,1700.0,accesso esterno,82
+Non specializzato,esselunga,Via,LORENTEGGIO,219,5132,6,4670.0,3327.0,7997.0,accesso esterno,60
+Non specializzato,esselunga,Viale,UMBRIA,28,3145,4,2500.0,1807.0,4307.0,accesso esterno,179
+Non specializzato,esselunga,Viale,CERTOSA,59,7174,8,1144.0,386.0,1530.0,accesso esterno,315
+Non specializzato,esselunga,Via,LEGNONE,3,1298,9,1920.0,0.0,1920.0,accesso esterno,87
+Non specializzato,euro discount,Via,CASATI FELICE,8,2122,3,390.0,110.0,500.0,accesso esterno,75
+Non specializzato,filzi market,Via,FILZI FABIO,8,1190,2,400.0,146.0,546.0,accesso esterno,310
+Non specializzato,fnac e standa superfresco,Via,DELLA PALLA,2,586,1,4720.0,0.0,4720.0,accesso esterno,427
+Non specializzato,free shop,Via,DEI TRANSITI,20,2284,2,577.0,0.0,577.0,accesso interno,181
+Non specializzato,gs,Via,MODENA GUSTAVO,8,3122,3,1050.0,1162.0,2212.0,accesso esterno,168
+Non specializzato,gs,Via,RISMONDO FRANCESCO,8,6756,7,939.0,1011.0,1950.0,area aperta recintata,138
+Non specializzato,gs,Viale,ABRUZZI,10,2177,3,800.0,600.0,1400.0,accesso esterno,58
+Non specializzato,gs,Viale,MONZA,134,2274,2,1300.0,940.0,2240.0,area aperta recintata,178
+Non specializzato,gs supermercato,Via,MAESTRI CAMPIONESI,7,3197,4,1416.0,22.0,1438.0,accesso esterno,72
+Non specializzato,il gigante,Via,LORENTEGGIO,3,5132,6,1320.0,0.0,1320.0,accesso esterno,152
+Non specializzato,il mercatino di via arbe,Via,ARBE,47,1352,2,256.0,80.0,336.0,accesso esterno,86
+Non specializzato,in s mercato,Via,APELLE,36,2454,2,583.0,0.0,583.0,accesso esterno,113
+Non specializzato,in s mercato,Via,BASSO LELIO,8,5453,5,750.0,0.0,750.0,accesso interno,111
+Non specializzato,in s mercato,Via,CLITUMNO,20,2367,2,600.0,0.0,600.0,accesso esterno,317
+Non specializzato,in s mercato,Via,LUDOVICO DI BREME,48,7396,8,600.0,0.0,600.0,accesso interno,226
+Non specializzato,in s mercato,Via,PINDARO,7,2401,2,600.0,0.0,600.0,accesso esterno,33
+Non specializzato,in s mercato,Via,VARESINA,25,7290,8,399.0,0.0,399.0,accesso esterno,271
+Non specializzato,in s mercato,Viale,MARCHE,97,1360,9,600.0,0.0,600.0,accesso esterno,157
+Non specializzato,io brico,Via,ORSINI VINCENZO GIORDANO,2,6648,7,1691.0,159.0,1850.0,accesso esterno,207
+Non specializzato,ipercoop,Piazzale,LODI,3,4249,4,4125.0,0.0,4125.0,accesso interno,151
+Non specializzato,ipercoop,Via,GOZZOLI BENOZZO,130,6789,7,5660.0,2340.0,8000.0,accesso esterno,207
+Non specializzato,ipercoop,Via,CARNEVALI ANTONIO,116,1268,9,1035.0,0.0,1035.0,accesso esterno,40
+Non specializzato,ipercoop,Via,QUARENGHI GIACOMO,23,7478,8,3990.0,0.0,3990.0,accesso interno,300
+Non specializzato,iper portello,Via,PALAZZOLO DON LUIGI,20,7522,8,5403.0,1097.0,6500.0,accesso esterno,249
+Non specializzato,iperstanda,Via,TRIVULZIO ANTONIO TOLOMEO,12,6277,7,3200.0,2164.0,5364.0,accesso esterno,7
+Non specializzato,italbar,Via,TRIVULZIO ANTONIO TOLOMEO,15,6277,7,257.0,0.0,257.0,accesso interno,14
+Non specializzato,kathay china food store,Via,ROSMINI ANTONIO,11,7132,1,259.0,0.0,259.0,accesso esterno,110
+Non specializzato,la coloniale,Corso,GENOVA,19,5164,1,350.0,0.0,350.0,accesso esterno,132
+Non specializzato,la rinascente,Viale,CERTOSA,29,7174,8,6350.0,3670.0,10020.0,accesso esterno,330
+Non specializzato,ld discount,Via,SAN RAFAEL DELLE ANDE,6,1457,2,490.0,0.0,490.0,accesso esterno,67
+Non specializzato,ld market,Via,RUBENS PIETRO,8,6597,7,498.0,334.0,832.0,accesso esterno,119
+Non specializzato,licenza madre ce de angel,Via,DE ANGELI CARLO,1,4326,5,4900.0,4085.0,8985.0,accesso interno,81
+Non specializzato,licenza madre ce palizzi,Via,PALIZZI FILIPPO,69,7451,8,5960.0,4040.0,10000.0,accesso esterno,107
+Non specializzato,lidl,Largo,BALESTRA ANTONIO,3,5464,6,896.0,875.0,1771.0,accesso interno,158
+Non specializzato,lidl,Via,CEFALU',2,7370,8,884.0,255.0,1139.0,Non specificato,106
+Non specializzato,lidl,Via,DELLA CHIESA ROSSA,43,5321,5,1270.0,711.0,1981.0,area aperta recintata,42
+Non specializzato,lidl,Via,GRASSI GIOVANNI BATTISTA,15,7465,8,900.0,0.0,900.0,accesso esterno,88
+Non specializzato,lidl,Via,LORENTEGGIO,240,5132,6,1112.0,265.0,1377.0,accesso esterno,51
+Non specializzato,lidl,Via,PESTALOZZI GIOVANNI ENRICO,21,5294,6,856.0,0.0,856.0,accesso esterno,9
+Non specializzato,lidl,Via,SACCARDO PIETRO ANDREA,22,2665,3,750.0,0.0,750.0,accesso esterno,128
+Non specializzato,lidl,Viale,CASSALA,14,5275,6,1154.0,199.0,1353.0,area aperta recintata,153
+Non specializzato,lidl,Viale,ORTLES,7,4133,5,892.0,0.0,892.0,accesso esterno,44
+Non specializzato,lidl,Viale,TIBALDI,40,5234,5,674.0,183.0,857.0,accesso esterno,66
+Non specializzato,lidl supermarket,Via,VALASSINA,12,1314,9,1300.0,268.0,1568.0,accesso esterno,73
+Non specializzato,longoni sport punto giall,Via,CEFALONIA,10,7439,8,2400.0,0.0,2400.0,accesso esterno,40
+Non specializzato,messaggerie musicali,Galleria,DEL CORSO,2,305,1,2440.0,1010.0,3450.0,accesso esterno,360
+Non specializzato,mondadori multicenter,Via,MARGHERA,28,6280,7,1810.0,90.0,1900.0,accesso esterno,212
+Non specializzato,natura si,Via,MILLELIRE DOMENICO,14,6620,7,500.0,275.0,775.0,accesso interno,106
+Non specializzato,natura si,Via,FARA GUSTAVO,35,1183,9,270.0,0.0,270.0,accesso esterno,289
+Non specializzato,oviesse,Corso,BUENOS AIRES,35,2129,3,3100.0,703.0,3803.0,accesso esterno,59
+Non specializzato,oviesse,Corso,DI PORTA TICINESE,12,541,1,1300.0,28.0,1328.0,accesso esterno,173
+Non specializzato,oviesse,Ripa,DI PTA TICINESE,73,5150,6,1780.0,3728.0,5508.0,accesso esterno,125
+Non specializzato,oviesse,Via,OLTROCCHI BALDASSARE,11,3217,4,1209.0,314.0,1523.0,accesso esterno,79
+Non specializzato,oviesse,Via,RIPAMONTI GIUSEPPE,175,4066,5,1490.0,842.0,2332.0,accesso esterno,109
+Non specializzato,oviesse,Via,RISMONDO FRANCESCO,8,6756,7,1800.0,440.0,2240.0,accesso esterno,138
+Non specializzato,pam,Via,BAZZINI ANTONIO,33,2427,3,920.0,1107.0,2027.0,accesso esterno,47
+Non specializzato,pam,Via,DELLE FORZE ARMATE,44,6643,7,1010.0,846.0,1856.0,accesso esterno,197
+Non specializzato,pam,Via,FOPPA VINCENZO,33,6109,6,960.0,1235.0,2195.0,accesso esterno,6
+Non specializzato,pam,Via,BARONA,21,5356,6,1200.0,840.0,2040.0,accesso esterno,48
+Non specializzato,pam,Via,OLONA,1,5090,1,960.0,860.0,1820.0,accesso esterno,460
+Non specializzato,pam,Viale,MONZA,113,2274,2,950.0,997.0,1947.0,accesso esterno,353
+Non specializzato,pam,Via,PICCINNI NICOLA,2,2236,3,800.0,1240.0,2040.0,accesso esterno,27
+Non specializzato,pam,Via,STRIGELLI GAETANO,8,3214,4,1100.0,874.0,1974.0,accesso esterno,79
+Non specializzato,pam,Via,TOLSTOI LEONE,61,5133,6,850.0,947.0,1797.0,accesso esterno,81
+Non specializzato,pam,Viale,SABOTINO,6,4046,5,900.0,922.0,1822.0,accesso esterno,171
+Non specializzato,pam,Viale,TIBALDI,35,5234,5,800.0,891.0,1691.0,accesso esterno,164
+Non specializzato,pd discount,Viale,DORIA ANDREA,17,2230,3,340.0,103.0,443.0,accesso esterno,33
+Non specializzato,peck,Via,SPADARI,7,518,1,1160.0,0.0,1160.0,accesso esterno,440
+Non specializzato,penny market,Via,ANTONINI GIACOMO,26,4250,5,857.0,254.0,1111.0,accesso esterno,99
+Non specializzato,penny market,Via,CARNEVALI ANTONIO,116,1268,9,765.0,0.0,765.0,accesso interno,34
+Non specializzato,penny market,Via,MASSARA DE CAPITANI,15,1261,9,680.0,82.0,762.0,area aperta recintata,36
+Non specializzato,penny market,Via,MONCUCCO,36,5320,6,540.0,210.0,750.0,accesso esterno,60
+Non specializzato,penny market,Via,PADOVA,166,2275,2,893.0,268.0,1161.0,accesso esterno,285
+Non specializzato,penny market,Via,ROSSI PELLEGRINO,46,1510,9,600.0,335.0,935.0,accesso esterno,190
+Non specializzato,penny market,Via,STAMIRA D'ANCONA,28,2337,2,510.0,262.0,772.0,area aperta recintata,195
+Non specializzato,penny market,Viale,ESPINASSE CARLO,137,7390,8,662.0,217.0,879.0,accesso esterno,103
+Non specializzato,playlife,Piazza,SANTA FRANCESCA ROMANA,3,2183,3,395.0,105.0,500.0,accesso esterno,108
+Non specializzato,punto market,Via,PONTI ETTORE,45,5297,6,470.0,299.0,769.0,area aperta recintata,42
+Non specializzato,punto sma,Piazzale,BAIAMONTI ANTONIO,4,7235,9,355.0,211.0,566.0,accesso esterno,313
+Non specializzato,punto sma,Piazza,BRUZZANO,5,1655,9,380.0,50.0,430.0,accesso esterno,42
+Non specializzato,punto sma,Piazza,NAPOLI,11,5131,6,399.0,0.0,399.0,accesso esterno,13
+Non specializzato,punto sma,Via,BUONARROTI MICHELANGELO,11,6253,7,400.0,450.0,850.0,accesso esterno,194
+Non specializzato,punto sma,Via,CANONICA LUIGI,54,7121,1,388.0,445.0,833.0,accesso esterno,106
+Non specializzato,punto sma,Via,NOE ENRICO,43,2211,3,390.0,0.0,390.0,accesso esterno,92
+Non specializzato,punto sma,Via,PIERO DELLA FRANCESCA,57,7188,8,380.0,30.0,410.0,accesso esterno,25
+Non specializzato,punto sma,Viale,ZARA,123,1170,9,505.0,395.0,900.0,accesso esterno,57
+Non specializzato,punto sma,Via,VAL DI BONDO,15,1648,9,295.0,101.0,396.0,accesso esterno,31
+Non specializzato,punto sma,Via,VENINI GIULIO E CORRADO,37,2258,2,320.0,401.0,721.0,accesso esterno,342
+Non specializzato,punto sma,Viale,PISA,10,6615,7,270.0,140.0,410.0,accesso esterno,200
+Non specializzato,punto sma,Viale,STELVIO,47,1227,9,700.0,487.0,1187.0,accesso esterno,204
+Non specializzato,quel che c e,Via,OROBIA,11,4137,5,290.0,0.0,290.0,accesso esterno,14
+Non specializzato,salvini,Via,SOLARI ANDREA,6,5111,6,360.0,0.0,360.0,accesso esterno,19
+Non specializzato,si coop,Via,FIUGGI,33,1328,9,860.0,757.0,1617.0,accesso interno,67
+Non specializzato,sma,Via,DELLA FERRERA,18,5451,6,1010.0,1098.0,2108.0,accesso esterno,37
+Non specializzato,sma,Via,F.LLI ANTONA TRAVERSI,18,7354,8,2272.0,1016.0,3288.0,accesso esterno,61
+Non specializzato,sma,Via,NOVARA,15,6624,7,4009.0,2033.0,6042.0,accesso esterno,105
+Non specializzato,sma centro freschezza,Via,MANCINI LODOVICO,4,3082,4,630.0,1125.0,1755.0,accesso esterno,35
+Non specializzato,sma/simply,Via,DELFICO MELCHIORRE,52,7250,8,1810.0,1190.0,3000.0,accesso esterno,312
+Non specializzato,sma supermercati,Via,PADOVA,224,2275,2,1120.0,1028.0,2148.0,accesso esterno,232
+Non specializzato,sma supermercati,Viale,TIBALDI,7,5234,5,990.0,630.0,1620.0,accesso esterno,95
+Non specializzato,sma supermercati,Corso,LODI,130,4068,4,862.0,616.0,1478.0,accesso esterno,55
+Non specializzato,sma supermercati,Piazza,FRATTINI PIETRO,4,5389,6,3010.0,1124.0,4134.0,accesso esterno,124
+Non specializzato,sma supermercati,Via,AMMIANO MARCELLINO,14,4101,4,600.0,720.0,1320.0,accesso esterno,122
+Non specializzato,sma supermercati,Via,ASTESANI ALESSANDRO,46,1558,9,705.0,980.0,1685.0,accesso esterno,52
+Non specializzato,sma supermercati,Via,LOMELLINA,1,3280,4,840.0,610.0,1450.0,accesso esterno,255
+Non specializzato,sma supermercati,Via,MICHELINO DA BESOZZO,14,7263,8,695.0,1008.0,1703.0,accesso esterno,300
+Non specializzato,sma supermercati,Via,VENINI GIULIO E CORRADO,50,2258,2,930.0,719.0,1649.0,accesso esterno,330
+Non specializzato,special market dugan,Via,PIER LOMBARDO,2,4073,4,600.0,279.0,879.0,accesso esterno,157
+Non specializzato,standa,Piazza,DELLA TRIVULZIANA,6,1765,9,950.0,620.0,1570.0,accesso interno,58
+Non specializzato,standa,Viale,UNGHERIA,12,3357,4,890.0,537.0,1427.0,accesso esterno,108
+Non specializzato,standa superfresco,Piazza,DIOCLEZIANO,4,7220,8,915.0,0.0,915.0,accesso esterno,13
+Non specializzato,standa superfresco,Via,CICOGNARA LEOPOLDO,2,3106,3,2469.0,1898.0,4367.0,accesso esterno,183
+Non specializzato,standa superfresco,Via,DEI MISSAGLIA,22,5340,5,3213.0,2214.0,5427.0,accesso esterno,56
+Non specializzato,standa superfresco,Via,DELLE FORZE ARMATE,312,6643,7,1250.0,1625.0,2875.0,accesso esterno,158
+Non specializzato,standa superfresco,Via,PALMANOVA,65,2390,2,3323.0,0.0,3323.0,accesso esterno,287
+Non specializzato,standa superfresco,Via,URUGUAY,6,7495,8,880.0,770.0,1650.0,accesso esterno,62
+Non specializzato,standa superfresco,Viale,ESPINASSE CARLO,19,7390,8,800.0,1453.0,2253.0,accesso esterno,243
+Non specializzato,super di,Via,ORNATO LUIGI,148,1591,9,1046.0,1494.0,2540.0,accesso esterno,10
+Non specializzato,superdi  supermercati,Via,MAFFUCCI ANGIOLO,40,1276,9,705.0,0.0,705.0,accesso esterno,63
+Non specializzato,supermercati di x di,Via,SARPI FRA' PAOLO,41,7210,1,390.0,240.0,630.0,accesso esterno,109
+Non specializzato,supermercato,Via,CANONICA LUIGI,54,7121,1,397.0,0.0,397.0,accesso esterno,106
+Non specializzato,suprmercato dufry,Piazza,DUCA D'AOSTA,0,1200,2,1038.0,694.0,1732.0,accesso interno,159
+Non specializzato,team point,Viale,RICHARD GIULIO,5,5374,6,265.0,0.0,265.0,accesso interno,16
+Non specializzato,toys center,Via,MACCHI MAURO,29,2133,2,813.0,227.0,1040.0,accesso esterno,39
+Non specializzato,toys center,Via,CARNEVALI ANTONIO,116,1268,9,1499.0,1608.0,3107.0,accesso esterno,44
+Non specializzato,toys center,Via,PITAGORA,4,2405,2,614.0,0.0,614.0,accesso esterno,24
+Non specializzato,unes,Piazzale,CHIESA DAMIANO,2,7164,8,650.0,1353.0,2003.0,accesso esterno,39
+Non specializzato,unes,Via,DE MARCHI EMILIO,10,1418,2,814.0,536.0,1350.0,accesso esterno,124
+Non specializzato,unes,Via,DURAZZO,5,2658,3,932.0,1078.0,2010.0,accesso esterno,67
+Non specializzato,unes,Via,MURATORI LODOVICO,27,4076,4,600.0,220.0,820.0,accesso esterno,166
+Non specializzato,unes,Via,SPALLANZANI LAZZARO,10,2153,3,865.0,711.0,1576.0,accesso esterno,143
+Non specializzato,unes,Via,TRILUSSA,26,7367,8,814.0,1818.0,2632.0,accesso esterno,63
+Non specializzato,unes,Via,VALLAZZE,87,2250,3,790.0,0.0,790.0,accesso esterno,35
+Non specializzato,unes,Via,VARESINA,92,7290,8,300.0,260.0,560.0,accesso esterno,237
+Non specializzato,unes,Viale,BELISARIO,3,6360,8,650.0,1120.0,1770.0,accesso esterno,165
+Non specializzato,unes supermercati,Via,MINERBI ARRIGO,1,5441,5,420.0,420.0,840.0,accesso esterno,75
+Non specializzato,unes supermercati,Via,VAL DI SOLE,12,4295,5,310.0,310.0,620.0,accesso esterno,166
+Non specializzato,unes  u! come tu mi vuoi,Via,VALLAZZE,104,2250,3,398.0,20.0,418.0,accesso esterno,56
+Non specializzato,upim,Corso,BUENOS AIRES,21,2129,3,3030.0,1577.0,4607.0,accesso esterno,78
+Non specializzato,upim,Piazzale,LORETO,5,2264,2,2416.0,1181.0,3597.0,accesso esterno,357
+Non specializzato,upim,Piazza,FRATTINI PIETRO,8,5389,6,1060.0,650.0,1710.0,accesso esterno,124
+Non specializzato,upim,Via,CUNEO,2,6281,7,2585.0,2323.0,4908.0,accesso esterno,214
+Non specializzato,upim,Via,FARINI CARLO,79,1114,9,3643.0,1642.0,5285.0,accesso esterno,153
+Non specializzato,upim,Via,MANCINI LODOVICO,2,3082,4,1854.0,981.0,2835.0,accesso esterno,35
+Non specializzato,upim,Via,POLESINE,39,4159,4,2637.0,1140.0,3777.0,accesso esterno,55
+Non specializzato,upim,Via,SPADARI,2,518,1,1652.0,1040.0,2692.0,accesso esterno,438
+Non specializzato,upim sma,Corso,SAN GOTTARDO,29,5203,5,3470.0,393.0,3863.0,accesso esterno,95
+Non specializzato,upim sma,Via,MASOLINO DA PANICALE,7,7264,8,1819.0,785.0,2604.0,accesso esterno,300
+Non specializzato,versace,Via,MONTE NAPOLEONE,11,219,1,454.0,0.0,454.0,accesso esterno,314
+Settore non alimentare,Non presente,Bastioni,DI PORTA VOLTA,7,1066,1,380.0,215.0,595.0,Non specificato,342
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,18,2129,3,300.0,0.0,300.0,Non specificato,71
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,23,2129,3,381.0,64.0,445.0,Non specificato,75
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,2,2129,3,315.0,17.0,332.0,accesso interno,143
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,39,2129,3,425.0,65.0,490.0,accesso esterno,59
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,54,2129,3,349.0,0.0,349.0,accesso esterno,45
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,63,2129,3,812.0,261.0,1073.0,accesso esterno,17
+Settore non alimentare,Non presente,Corso,COMO,10,1111,9,436.0,0.0,436.0,accesso interno,322
+Settore non alimentare,Non presente,Corso,DI PORTA TICINESE,12,541,1,926.0,264.0,1190.0,Non specificato,236
+Settore non alimentare,Non presente,Corso,EUROPA,22,300,1,1496.0,764.0,2260.0,Non specificato,291
+Settore non alimentare,Non presente,Corso,GARIBALDI GIUSEPPE,127,1010,1,273.0,0.0,273.0,Non specificato,300
+Settore non alimentare,Non presente,Via,MAGGI CARLO MARIA,10,7115,1,725.0,130.0,855.0,accesso esterno,81
+Settore non alimentare,Non presente,Corso,INDIPENDENZA,1,3118,3,450.0,1550.0,2000.0,accesso esterno,177
+Settore non alimentare,Non presente,Corso,INDIPENDENZA,24,3118,4,850.0,630.0,1480.0,accesso esterno,7
+Settore non alimentare,Non presente,Corso,ITALIA,40,526,1,292.0,100.0,392.0,accesso esterno,476
+Settore non alimentare,Non presente,Corso,LODI,47,4068,4,263.0,52.0,315.0,accesso esterno,182
+Settore non alimentare,Non presente,Corso,LODI,60,4068,4,255.0,0.0,255.0,accesso esterno,21
+Settore non alimentare,Non presente,Corso,LODI,9,4068,4,340.0,0.0,340.0,accesso esterno,170
+Settore non alimentare,Non presente,Corso,MAGENTA,10,604,1,530.0,50.0,580.0,accesso esterno,291
+Settore non alimentare,Non presente,Corso,MATTEOTTI GIACOMO,14,218,1,267.0,0.0,267.0,accesso esterno,316
+Settore non alimentare,Non presente,Corso,MATTEOTTI GIACOMO,8,218,1,300.0,80.0,380.0,Non specificato,310
+Settore non alimentare,Non presente,Corso,MONFORTE,20,348,1,480.0,95.0,575.0,Non specificato,192
+Settore non alimentare,Non presente,Corso,SAN GOTTARDO,35,5203,5,384.0,66.0,450.0,accesso esterno,114
+Settore non alimentare,Non presente,Corso,SAN GOTTARDO,42,5203,5,500.0,250.0,750.0,accesso interno,113
+Settore non alimentare,Non presente,Corso,SEMPIONE,21,7137,8,256.0,18.0,274.0,accesso esterno,96
+Settore non alimentare,Non presente,Corso,VENEZIA,14,238,1,1435.0,190.0,1625.0,accesso esterno,190
+Settore non alimentare,Non presente,Corso,VENEZIA,2,238,1,475.0,0.0,475.0,accesso esterno,190
+Settore non alimentare,Non presente,Corso,VENEZIA,5,238,1,410.0,187.0,597.0,accesso esterno,261
+Settore non alimentare,Non presente,Corso,VERCELLI,16,6193,7,582.0,0.0,582.0,accesso esterno,216
+Settore non alimentare,Non presente,Corso,VERCELLI,35,6193,7,575.0,0.0,575.0,Non specificato,229
+Settore non alimentare,Non presente,Corso,VITTORIO EMANUELE II,13,214,1,710.0,259.0,969.0,accesso esterno,361
+Settore non alimentare,Non presente,Corso,VITTORIO EMANUELE II,30,214,1,2264.0,610.0,2874.0,Non specificato,357
+Settore non alimentare,Non presente,Corso,VITTORIO EMANUELE II,9,214,1,1500.0,0.0,1500.0,accesso esterno,361
+Settore non alimentare,Non presente,Corso,VITTORIO EMANUELE II,24,214,1,913.0,27.0,940.0,Non specificato,363
+Settore non alimentare,Non presente,Foro,BUONAPARTE,24,711,1,519.0,223.0,742.0,Non specificato,296
+Settore non alimentare,Non presente,Galleria,DEL CORSO,4,305,1,1217.0,380.0,1597.0,Non specificato,333
+Settore non alimentare,Non presente,Galleria,PATTARI,2,296,1,1017.0,683.0,1700.0,accesso esterno,420
+Settore non alimentare,Non presente,Galleria,STRASBURGO,3,297,1,357.0,0.0,357.0,accesso esterno,317
+Settore non alimentare,Non presente,Largo,BOCCIONI UMBERTO,6,7467,8,400.0,40.0,440.0,accesso esterno,93
+Settore non alimentare,Non presente,Largo,DOMODOSSOLA,1,6140,8,563.0,467.0,1030.0,Non specificato,122
+Settore non alimentare,Non presente,Largo,ISARCO,2,4129,5,492.0,8.0,500.0,Non specificato,13
+Settore non alimentare,Non presente,Largo,RICHINI FRANCESCO,1,331,1,293.0,37.0,330.0,accesso esterno,325
+Settore non alimentare,Non presente,Passaggio,DUOMO,2,102,1,600.0,150.0,750.0,accesso interno,436
+Settore non alimentare,Non presente,Piazzale,AQUILEIA,6,6205,7,320.0,0.0,320.0,accesso esterno,260
+Settore non alimentare,Non presente,Piazzale,CHIESA DAMIANO,2,7164,8,2277.0,1000.0,3277.0,accesso esterno,39
+Settore non alimentare,Non presente,Piazzale,CIMITERO MAGGIORE,12,7442,8,270.0,270.0,540.0,accesso esterno,141
+Settore non alimentare,Non presente,Piazzetta,BOSSI MAURILIO,4,116,1,400.0,800.0,1200.0,accesso esterno,367
+Settore non alimentare,Non presente,Piazzetta,GIORDANO UMBERTO,4,345,1,390.0,0.0,390.0,accesso esterno,264
+Settore non alimentare,Non presente,Piazza,DELLA TRIVULZIANA,5,1765,9,1100.0,640.0,1740.0,accesso esterno,94
+Settore non alimentare,Non presente,Piazza,DELLA TRIVULZIANA,6,1765,9,1100.0,327.0,1427.0,Non specificato,58
+Settore non alimentare,Non presente,Piazza,OTTO NOVEMBRE,6,2187,3,267.0,3.0,270.0,accesso esterno,149
+Settore non alimentare,Non presente,Piazza,RISORGIMENTO,10,3117,4,302.0,19.0,321.0,accesso esterno,5
+Settore non alimentare,Non presente,Piazza,SAN BABILA,1,216,1,1329.0,481.0,1810.0,accesso esterno,316
+Settore non alimentare,Non presente,Piazza,SAN BABILA,5,216,1,700.0,0.0,700.0,Non specificato,279
+Settore non alimentare,Non presente,Piazza,SAN MARCO,1,1040,1,340.0,57.0,397.0,accesso esterno,299
+Settore non alimentare,Non presente,Piazza,SANTA MARIA BELTRADE,1,514,1,417.0,365.0,782.0,accesso esterno,441
+Settore non alimentare,Non presente,Piazza,VENTICINQUE APRILE,12,1064,9,781.0,0.0,781.0,accesso interno,322
+Settore non alimentare,Non presente,Piazza,VENTIQUATTRO MAGGIO,8,5200,5,400.0,80.0,480.0,Non specificato,89
+Settore non alimentare,Non presente,Piazza,VESUVIO,19,6110,7,1200.0,1600.0,2800.0,accesso esterno,280
+Settore non alimentare,Non presente,Piazza,VETRA,21,515,1,340.0,0.0,340.0,Non specificato,297
+Settore non alimentare,Non presente,Ripa,DI PTA TICINESE,47,5150,6,300.0,0.0,300.0,accesso interno,72
+Settore non alimentare,Non presente,Via,ACHILLINI CLAUDIO,2,1605,9,1500.0,0.0,1500.0,accesso esterno,64
+Settore non alimentare,Non presente,Via,ALBERICO DA ROSCIATE,5,6589,7,726.0,0.0,726.0,accesso esterno,152
+Settore non alimentare,Non presente,Via,ALDINI ANTONIO,28,7461,8,276.0,138.0,414.0,accesso esterno,97
+Settore non alimentare,Non presente,Via,ALEARDI ALEARDO,15,7209,8,600.0,0.0,600.0,accesso esterno,73
+Settore non alimentare,Non presente,Via,ALUNNO NICOLO',23,6640,7,400.0,0.0,400.0,accesso esterno,197
+Settore non alimentare,Non presente,Via,AMADEO GIAN ANTONIO,40,3228,3,360.0,224.0,584.0,accesso esterno,200
+Settore non alimentare,Non presente,Via,ANTONINI GIACOMO,26,4250,5,1499.0,0.0,1499.0,Non specificato,99
+Settore non alimentare,Non presente,Via,AOSTA,6,7227,8,1000.0,0.0,1000.0,accesso esterno,1
+Settore non alimentare,Non presente,Via,ARNALDO DA BRESCIA,4,1151,9,607.0,0.0,607.0,accesso interno,252
+Settore non alimentare,Non presente,Via,ARONA,4,7169,8,490.0,150.0,640.0,accesso esterno,40
+Settore non alimentare,Non presente,Via,ARONA,15,7169,8,1227.0,0.0,1227.0,accesso esterno,237
+Settore non alimentare,Non presente,Via,BALESTRIERI DOMENICO,6,7116,1,310.0,0.0,310.0,Non specificato,314
+Settore non alimentare,Non presente,Via,BARONA,21,5356,6,500.0,0.0,500.0,accesso esterno,93
+Settore non alimentare,Non presente,Via,BELGIRATE,24,1406,2,870.0,220.0,1090.0,accesso interno,125
+Settore non alimentare,Non presente,Via,BENADIR,5,2380,2,1500.0,100.0,1600.0,accesso esterno,288
+Settore non alimentare,Non presente,Via,BENADIR,5,2380,2,1500.0,700.0,2200.0,Non specificato,288
+Settore non alimentare,Non presente,Via,BIGLI,19,224,1,270.0,110.0,380.0,accesso esterno,363
+Settore non alimentare,Non presente,Via,BIGLI,2,224,1,300.0,0.0,300.0,accesso esterno,314
+Settore non alimentare,Non presente,Via,BODONI GIAMBATTISTA,2,7261,8,356.0,0.0,356.0,accesso esterno,299
+Settore non alimentare,Non presente,Via,MURATORI LODOVICO,27,4076,4,350.0,92.0,442.0,accesso esterno,72
+Settore non alimentare,Non presente,Via,BORDIGHERA,12,5265,5,480.0,0.0,480.0,Non specificato,98
+Settore non alimentare,Non presente,Via,BORGOGNA,2,301,1,270.0,0.0,270.0,accesso esterno,317
+Settore non alimentare,Non presente,Via,BRIZI EUGENIO,4,4186,4,300.0,0.0,300.0,accesso esterno,70
+Settore non alimentare,Non presente,Via,CACCIATORI BENEDETTO,12,6305,7,280.0,0.0,280.0,accesso interno,63
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,2,2129,3,2500.0,0.0,2500.0,accesso esterno,111
+Settore non alimentare,Non presente,Via,CALZECCHI TEMISTOCLE,17,3241,3,300.0,291.0,591.0,accesso esterno,164
+Settore non alimentare,Non presente,Via,CANTONI GIOVANNI,7,6206,7,600.0,0.0,600.0,Non specificato,188
+Settore non alimentare,Non presente,Via,CARLI GIAN RINALDO,9,1563,9,456.0,90.0,546.0,accesso interno,51
+Settore non alimentare,Non presente,Via,CARNEVALI ANTONIO,28,1268,9,300.0,50.0,350.0,accesso interno,43
+Settore non alimentare,Non presente,Via,CASARSA,9,1577,9,476.0,14.0,490.0,accesso interno,56
+Settore non alimentare,Non presente,Via,SPALLANZANI LAZZARO,5,2153,3,610.0,42.0,652.0,accesso esterno,106
+Settore non alimentare,Non presente,Via,CASORETTO,33,2420,3,290.0,0.0,290.0,accesso esterno,6
+Settore non alimentare,Non presente,Via,CASSINIS GIOVANNI BATTISTA,23,4309,4,3163.0,0.0,3163.0,accesso esterno,71
+Settore non alimentare,Non presente,Via,CASSINIS GIOVANNI BATTISTA,7,4309,4,305.0,0.0,305.0,Non specificato,67
+Settore non alimentare,Non presente,Via,CATULLO,8,7428,8,286.0,0.0,286.0,Non specificato,111
+Settore non alimentare,Non presente,Via,CHIESE,60,1627,9,1299.0,796.0,2095.0,Non specificato,73
+Settore non alimentare,Non presente,Via,COLONNA MARCO ANTONIO,35,7158,8,350.0,0.0,350.0,Non specificato,121
+Settore non alimentare,Non presente,Via,CONFALONIERI FEDERICO,34,1125,9,485.0,82.0,567.0,accesso esterno,283
+Settore non alimentare,Non presente,Via,CUSANI,10,719,1,261.0,0.0,261.0,Non specificato,270
+Settore non alimentare,Non presente,Via,DE AMICIS EDMONDO,29,574,1,2394.0,0.0,2394.0,accesso interno,128
+Settore non alimentare,Non presente,Via,DEGLI OMENONI,2,233,1,563.0,117.0,680.0,accesso esterno,383
+Settore non alimentare,Non presente,Via,DEGLI ZUCCARO,9,5390,6,800.0,0.0,800.0,accesso esterno,142
+Settore non alimentare,Non presente,Via,DEI CROLLALANZA,4,5311,6,800.0,1490.0,2290.0,accesso esterno,67
+Settore non alimentare,Non presente,Via,DEI MISSAGLIA,34,5340,5,990.0,0.0,990.0,Non specificato,71
+Settore non alimentare,Non presente,Via,DEL DUCA CINO,12,362,1,300.0,110.0,410.0,accesso esterno,191
+Settore non alimentare,Non presente,Via,DELL' ANNUNCIATA,2,140,1,913.0,197.0,1110.0,accesso esterno,182
+Settore non alimentare,Non presente,Via,DELL' ORSO,7,123,1,269.0,172.0,441.0,accesso esterno,311
+Settore non alimentare,Non presente,Via,DOGANA,2,341,1,2092.0,1572.0,3664.0,Non specificato,437
+Settore non alimentare,Non presente,Via,DUPRE' GIOVANNI,14,7252,8,800.0,0.0,800.0,accesso esterno,292
+Settore non alimentare,Non presente,Via,DURINI,16,313,1,600.0,150.0,750.0,accesso esterno,318
+Settore non alimentare,Non presente,Via,DURINI,1,313,1,329.0,93.0,422.0,Non specificato,347
+Settore non alimentare,Non presente,Via,DURINI,25,313,1,330.0,120.0,450.0,accesso esterno,317
+Settore non alimentare,Non presente,Via,DURINI,28,313,1,872.0,2.0,874.0,accesso interno,318
+Settore non alimentare,Non presente,Via,FALLOPPIO GABRIELE,11,2424,3,292.0,0.0,292.0,accesso esterno,9
+Settore non alimentare,Non presente,Via,FARA GUSTAVO,39,1183,9,800.0,0.0,800.0,accesso esterno,289
+Settore non alimentare,Non presente,Via,FARINI CARLO,47,1114,9,660.0,0.0,660.0,accesso esterno,251
+Settore non alimentare,Non presente,Via,FELTRE,17,2652,3,314.0,0.0,314.0,Non specificato,59
+Settore non alimentare,Non presente,Via,FELTRE,30,2652,3,1100.0,0.0,1100.0,accesso esterno,67
+Settore non alimentare,Non presente,Corso,BUENOS AIRES,47,2129,3,500.0,0.0,500.0,accesso interno,67
+Settore non alimentare,Non presente,Via,FERRUCCI FRANCESCO,2,7150,8,310.0,20.0,330.0,accesso esterno,85
+Settore non alimentare,Non presente,Via,FILZI FABIO,8,1190,2,800.0,150.0,950.0,accesso esterno,310
+Settore non alimentare,Non presente,Via,F.LLI BRONZETTI,16,3089,4,428.0,0.0,428.0,accesso interno,20
+Settore non alimentare,Non presente,Via,F.LLI GABBA,1,146,1,564.0,26.0,590.0,accesso esterno,304
+Settore non alimentare,Non presente,Via,F.LLI ZOIA,71,6306,7,600.0,10.0,610.0,area aperta recintata,42
+Settore non alimentare,Non presente,Via,FOLLI EGIDIO,96,2676,3,600.0,0.0,600.0,accesso esterno,66
+Settore non alimentare,Non presente,Via,FRIULI,16,3199,4,794.0,406.0,1200.0,accesso esterno,177
+Settore non alimentare,Non presente,Via,GADAMES,57,7423,8,450.0,0.0,450.0,accesso esterno,203
+Settore non alimentare,Non presente,Via,GAGGIA PIETRO,1,4187,4,280.0,20.0,300.0,accesso esterno,70
+Settore non alimentare,Non presente,Via,GALLARATE,219,7420,8,253.0,0.0,253.0,accesso interno,179
+Settore non alimentare,Non presente,Via,GALLI MARIO,19,1304,9,287.0,71.0,358.0,accesso interno,13
+Settore non alimentare,Non presente,Via,GATTAMELATA,41,7156,8,1330.0,0.0,1330.0,accesso esterno,328
+Settore non alimentare,Non presente,Corso,SEMPIONE,51,7137,8,848.0,0.0,848.0,accesso esterno,160
+Settore non alimentare,Non presente,Via,GIOIA MELCHIORRE,62,1108,2,320.0,50.0,370.0,accesso esterno,240
+Settore non alimentare,Non presente,Via,GIOVANNI DA UDINE,3,7408,8,530.0,337.0,867.0,accesso esterno,220
+Settore non alimentare,Non presente,Via,GIULINI GIORGIO,2,613,1,390.0,81.0,471.0,accesso esterno,371
+Settore non alimentare,Non presente,Via,GONIN FRANCESCO,11,5376,6,775.0,1.0,776.0,accesso esterno,156
+Settore non alimentare,Non presente,Via,GROSOTTO,7,7328,8,723.0,57.0,780.0,Non specificato,249
+Settore non alimentare,Non presente,Via,HOEPLI ULRICO,3,190,1,778.0,0.0,778.0,accesso esterno,384
+Settore non alimentare,Non presente,Via,HOEPLI ULRICO,5,190,1,1390.0,500.0,1890.0,accesso esterno,384
+Settore non alimentare,Non presente,Via,IMPERIA,15,5266,5,315.0,550.0,865.0,accesso esterno,51
+Settore non alimentare,Non presente,Via,LARIO,11,1171,9,350.0,15.0,365.0,accesso esterno,212
+Settore non alimentare,Non presente,Via,LAZZARETTO,17,2112,2,405.0,15.0,420.0,accesso esterno,98
+Settore non alimentare,Non presente,Via,LENTASIO,1,410,1,355.0,250.0,605.0,accesso esterno,270
+Settore non alimentare,Non presente,Via,LEOPARDI GIACOMO,7,6156,1,370.0,50.0,420.0,accesso esterno,289
+Settore non alimentare,Non presente,Via,LEPONTINA,12,1147,9,380.0,10.0,390.0,accesso interno,206
+Settore non alimentare,Non presente,Via,LESMI,7,5095,1,320.0,0.0,320.0,accesso interno,458
+Settore non alimentare,Non presente,Via,LORENTEGGIO,27,5132,6,350.0,0.0,350.0,accesso esterno,152
+Settore non alimentare,Non presente,Via,MADERNA BRUNO,2,3382,4,500.0,0.0,500.0,accesso esterno,72
+Settore non alimentare,Non presente,Via,MANZONI ALESSANDRO,30,230,1,361.0,62.0,423.0,accesso esterno,255
+Settore non alimentare,Non presente,Via,MANZONI ALESSANDRO,31,230,1,905.0,0.0,905.0,Non specificato,254
+Settore non alimentare,Non presente,Via,MARCO D'AGRATE,8,4276,5,730.0,390.0,1120.0,accesso esterno,115
+Settore non alimentare,Non presente,Via,MARIANI POMPEO,2,2490,2,1350.0,0.0,1350.0,accesso esterno,120
+Settore non alimentare,Non presente,Via,MARTINI SIMONE,3,5307,6,750.0,0.0,750.0,accesso esterno,46
+Settore non alimentare,Non presente,Via,MAZZINI GIUSEPPE,2,516,1,648.0,0.0,648.0,accesso esterno,447
+Settore non alimentare,Non presente,Via,MEDA GIUSEPPE,11,5242,5,350.0,1260.0,1610.0,accesso interno,130
+Settore non alimentare,Non presente,Via,MEDEGHINO,9,5335,5,319.0,40.0,359.0,accesso esterno,47
+Settore non alimentare,Non presente,Viale,PAPINIANO,12,5097,1,523.0,0.0,523.0,accesso interno,35
+Settore non alimentare,Non presente,Via,MONTE NAPOLEONE,11,219,1,800.0,0.0,800.0,accesso esterno,314
+Settore non alimentare,Non presente,Via,MONTE NAPOLEONE,4,219,1,891.0,560.0,1451.0,Non specificato,308
+Settore non alimentare,Non presente,Via,MONTE NAPOLEONE,27,219,1,500.0,0.0,500.0,accesso esterno,302
+Settore non alimentare,Non presente,Via,MONTE NAPOLEONE,27,219,1,597.0,60.0,657.0,Non specificato,314
+Settore non alimentare,Non presente,Via,MONTE SAN GABRIELE,8,2481,2,420.0,0.0,420.0,accesso esterno,180
+Settore non alimentare,Non presente,Via,MOROSINI EMILIO,7,3073,4,371.0,0.0,371.0,accesso esterno,46
+Settore non alimentare,Non presente,Via,MURATORI LODOVICO,13,4076,4,772.0,2052.0,2824.0,accesso esterno,165
+Settore non alimentare,Non presente,Via,MURATORI LODOVICO,27,4076,4,724.0,276.0,1000.0,Non specificato,118
+Settore non alimentare,Non presente,Via,AOSTA,6,7227,8,450.0,0.0,450.0,accesso esterno,161
+Settore non alimentare,Non presente,Via,NERINO,12,564,1,362.0,225.0,587.0,accesso esterno,349
+Settore non alimentare,Non presente,Via,NERVESA,30,4167,4,800.0,0.0,800.0,Non specificato,93
+Settore non alimentare,Non presente,Via,NIEVO IPPOLITO,41,6354,8,470.0,0.0,470.0,accesso esterno,87
+Settore non alimentare,Non presente,Via,NOVARA,127,6624,7,286.0,0.0,286.0,accesso esterno,38
+Settore non alimentare,Non presente,Via,OLONA,25,5090,1,261.0,0.0,261.0,accesso interno,224
+Settore non alimentare,Non presente,Via,PACINI GIOVANNI,64,2571,3,406.0,10.0,416.0,accesso esterno,83
+Settore non alimentare,Non presente,Via,PADOVA,237,2275,2,600.0,0.0,600.0,Non specificato,233
+Settore non alimentare,Non presente,Via,PAISIELLO GIOVANNI,1,2245,3,280.0,270.0,550.0,accesso esterno,63
+Settore non alimentare,Non presente,Via,PALAZZI LAZZARO,2,2171,3,563.0,442.0,1005.0,Non specificato,79
+Settore non alimentare,Non presente,Via,PALIZZI FILIPPO,69,7451,8,760.0,51.0,811.0,Non specificato,107
+Settore non alimentare,Non presente,Via,PANZERI PIETRO,10,5183,1,384.0,0.0,384.0,accesso esterno,53
+Settore non alimentare,Non presente,Via,PASSO BUOLE,4,4218,5,400.0,0.0,400.0,accesso interno,198
+Settore non alimentare,Non presente,Via,PAULLO,11,3177,4,428.0,330.0,758.0,accesso interno,58
+Settore non alimentare,Non presente,Via,PECCHIO GIUSEPPE,10,2240,3,800.0,0.0,800.0,Non specificato,40
+Settore non alimentare,Non presente,Via,TOCE,11,1325,9,900.0,0.0,900.0,accesso esterno,173
+Settore non alimentare,Non presente,Via,PELLINI EUGENIO,3,1482,2,396.0,0.0,396.0,accesso esterno,123
+Settore non alimentare,Non presente,Via,PETITTI CARLO ILARIONE,5,7161,8,270.0,100.0,370.0,accesso esterno,330
+Settore non alimentare,Non presente,Via,PETITTI CARLO ILARIONE,6,7161,8,320.0,0.0,320.0,Non specificato,160
+Settore non alimentare,Non presente,Via,PLANA GIOVANNI ANTONIO,38,7177,8,433.0,0.0,433.0,accesso esterno,325
+Settore non alimentare,Non presente,Via,PONTACCIO,3,143,1,300.0,0.0,300.0,Non specificato,350
+Settore non alimentare,Non presente,Via,PORTA CARLO,1,1051,1,340.0,35.0,375.0,accesso esterno,93
+Settore non alimentare,Non presente,Via,PRINETTI LUIGI,44,2329,2,409.0,250.0,659.0,accesso esterno,281
+Settore non alimentare,Non presente,Via,QUARENGHI GIACOMO,40,7478,8,390.0,0.0,390.0,Non specificato,250
+Settore non alimentare,Non presente,Via,ROSSI PELLEGRINO,15,1510,9,300.0,30.0,330.0,accesso esterno,182
+Settore non alimentare,Non presente,Via,ROSSI PELLEGRINO,93,1510,9,317.0,0.0,317.0,accesso esterno,153
+Settore non alimentare,Non presente,Via,ROSSO DI SAN SECONDO,15,3009,3,570.0,75.0,645.0,accesso esterno,146
+Settore non alimentare,Non presente,Via,SAN BARNABA,27,3010,1,358.0,0.0,358.0,Non specificato,201
+Settore non alimentare,Non presente,Via,SAN DAMIANO,4,351,1,485.0,0.0,485.0,Non specificato,328
+Settore non alimentare,Non presente,Via,SANDRI SANDRO,2,1046,1,251.0,0.0,251.0,accesso esterno,179
+Settore non alimentare,Non presente,Via,SAN GREGORIO,1,2123,3,1250.0,285.0,1535.0,accesso esterno,105
+Settore non alimentare,Non presente,Via,SAN GREGORIO,48,2123,2,300.0,250.0,550.0,accesso esterno,69
+Settore non alimentare,Non presente,Via,SAN MARCO,26,1036,1,398.0,105.0,503.0,accesso esterno,177
+Settore non alimentare,Non presente,Via,SAN PIETRO ALL'ORTO,10,213,1,565.0,250.0,815.0,Non specificato,316
+Settore non alimentare,Non presente,Via,SAN SIRO,31,6282,7,350.0,0.0,350.0,accesso interno,173
+Settore non alimentare,Non presente,Via,SANTA CECILIA,4,349,1,255.0,0.0,255.0,accesso esterno,190
+Settore non alimentare,Non presente,Via,SANTA CROCE,8,5188,1,270.0,130.0,400.0,accesso esterno,212
+Settore non alimentare,Non presente,Via,SANTA MARIA VALLE,1,535,1,294.0,0.0,294.0,accesso esterno,397
+Settore non alimentare,Non presente,Via,SANTA MARIA VALLE,3,535,1,390.0,510.0,900.0,Non specificato,356
+Settore non alimentare,Non presente,Via,SANT' ANDREA,11,222,1,277.0,23.0,300.0,accesso esterno,260
+Settore non alimentare,Non presente,Via,SANT' ANDREA,5,222,1,331.0,0.0,331.0,accesso esterno,260
+Settore non alimentare,Non presente,Via,SANT' ANDREA,9,222,1,364.0,0.0,364.0,accesso esterno,260
+Settore non alimentare,Non presente,Via,SANT' ANDREA,10,222,1,290.0,0.0,290.0,Non specificato,255
+Settore non alimentare,Non presente,Via,SANTO SPIRITO,19,228,1,337.0,163.0,500.0,accesso esterno,258
+Settore non alimentare,Non presente,Via,SARPI FRA' PAOLO,4,7210,8,693.0,0.0,693.0,accesso interno,68
+Settore non alimentare,Non presente,Via,SARPI FRA' PAOLO,60,7210,8,251.0,0.0,251.0,accesso esterno,71
+Settore non alimentare,Non presente,Via,SAVONA,25,5122,6,265.0,0.0,265.0,Non specificato,56
+Settore non alimentare,Non presente,Via,SCANINI ALESSANDRO,9,6755,7,512.0,0.0,512.0,accesso esterno,80
+Settore non alimentare,Non presente,Via,SCIESA AMATORE,21,3072,4,450.0,60.0,510.0,accesso esterno,56
+Settore non alimentare,Non presente,Via,SIRTORI GIUSEPPE,26,2180,3,1530.0,0.0,1530.0,accesso interno,145
+Settore non alimentare,Non presente,Via,SISMONDI GIANCARLO,70,3256,4,385.0,0.0,385.0,accesso interno,247
+Settore non alimentare,Non presente,Via,SODERINI LUIGI,54,6675,6,800.0,740.0,1540.0,accesso esterno,69
+Settore non alimentare,Non presente,Via,SOLFERINO,11,1028,1,347.0,0.0,347.0,accesso interno,172
+Settore non alimentare,Non presente,Via,SOLFERINO,39,1028,1,1200.0,8.0,1208.0,accesso interno,6
+Settore non alimentare,Non presente,Via,SOLONE,8,2346,2,500.0,0.0,500.0,accesso esterno,71
+Settore non alimentare,Non presente,Via,SORESINA GIOVANNI BATTISTA,14,6207,7,3000.0,40.0,3040.0,accesso esterno,240
+Settore non alimentare,Non presente,Via,SPALLANZANI LAZZARO,5,2153,3,878.0,305.0,1183.0,accesso esterno,141
+Settore non alimentare,Non presente,Via,SPERONARI,8,517,1,701.0,162.0,863.0,accesso esterno,447
+Settore non alimentare,Non presente,Via,STRIGELLI GAETANO,13,3214,4,270.0,0.0,270.0,accesso esterno,78
+Settore non alimentare,Non presente,Via,TAGIURA,19,6125,6,294.0,0.0,294.0,accesso esterno,42
+Settore non alimentare,Non presente,Via,TAZZOLI ENRICO,11,1118,9,376.0,0.0,376.0,accesso interno,293
+Settore non alimentare,Non presente,Via,TEANO,6,1632,9,403.0,0.0,403.0,accesso esterno,6
+Settore non alimentare,Non presente,Via,TESSA DELIO,1,1020,1,600.0,0.0,600.0,Non specificato,245
+Settore non alimentare,Non presente,Via,TIMAVO,32,1174,2,840.0,346.0,1186.0,accesso interno,239
+Settore non alimentare,Non presente,Via,TOCE,11,1325,9,380.0,8.0,388.0,accesso esterno,207
+Settore non alimentare,Non presente,Via,TOLSTOI LEONE,87,5133,6,762.0,0.0,762.0,accesso esterno,41
+Settore non alimentare,Non presente,Via,TORINO,21,543,1,270.0,0.0,270.0,accesso esterno,446
+Settore non alimentare,Non presente,Via,TORINO,23,543,1,298.0,99.0,397.0,Non specificato,436
+Settore non alimentare,Non presente,Via,TORINO,2,543,1,850.0,0.0,850.0,Non specificato,438
+Settore non alimentare,Non presente,Via,TORINO,44,543,1,395.0,226.0,621.0,Non specificato,436
+Settore non alimentare,Non presente,Via,TRAIANO MARCO ULPIO,79,7157,8,1012.0,90.0,1102.0,accesso esterno,249
+Settore non alimentare,Non presente,Via,TRAIANO MARCO ULPIO,79,7157,8,375.0,128.0,503.0,Non specificato,249
+Settore non alimentare,Non presente,Via,VALSOLDA,11,5288,6,1150.0,1000.0,2150.0,accesso interno,22
+Settore non alimentare,Non presente,Via,VALTELLINA,17,1188,9,358.0,0.0,358.0,accesso interno,105
+Settore non alimentare,Non presente,Via,VARANINI LUIGI,28,2288,2,400.0,0.0,400.0,accesso esterno,321
+Settore non alimentare,Non presente,Via,VENINI GIULIO E CORRADO,46,2258,2,251.0,22.0,273.0,accesso esterno,346
+Settore non alimentare,Non presente,Via,VENINI GIULIO E CORRADO,87,2258,2,270.0,0.0,270.0,accesso esterno,320
+Settore non alimentare,Non presente,Via,VENINI GIULIO E CORRADO,87,2258,2,345.0,25.0,370.0,accesso esterno,346
+Settore non alimentare,Non presente,Via,VERRI PIETRO,8,223,1,267.0,97.0,364.0,accesso esterno,315
+Settore non alimentare,Non presente,Via,VICO GIAN BATTISTA,14,6219,1,307.0,15.0,322.0,accesso esterno,225
+Settore non alimentare,Non presente,Via,VIPACCO,36,2444,2,312.0,0.0,312.0,accesso esterno,26
+Settore non alimentare,Non presente,Via,VISCONTI DI MODRONE UBERTO,12,361,1,265.0,0.0,265.0,Non specificato,316
+Settore non alimentare,Non presente,Via,VODICE,3,6552,7,375.0,0.0,375.0,accesso esterno,252
+Settore non alimentare,Non presente,Via,VOLTERRA,12,6260,7,540.0,110.0,650.0,accesso esterno,250
+Settore non alimentare,Non presente,Via,WITTGENS FERNANDA,5,597,1,502.0,0.0,502.0,accesso esterno,275
+Settore non alimentare,Non presente,Via,ZANELLA GIACOMO,36,3257,4,378.0,0.0,378.0,accesso esterno,253
+Settore non alimentare,Non presente,Via,ZANELLA GIACOMO,61,3257,4,1500.0,455.0,1955.0,accesso esterno,246
+Settore non alimentare,Non presente,Viale,ABRUZZI,51,2177,3,292.0,0.0,292.0,accesso esterno,29
+Settore non alimentare,Non presente,Viale,ABRUZZI,13,2177,3,300.0,0.0,300.0,accesso interno,67
+Settore non alimentare,Non presente,Viale,AFFORI,19,1545,9,450.0,150.0,600.0,accesso esterno,145
+Settore non alimentare,Non presente,Viale,CASSALA,14,5275,6,566.0,240.0,806.0,accesso esterno,153
+Settore non alimentare,Non presente,Via,MANZOTTI LUIGI,24,1300,9,350.0,0.0,350.0,accesso interno,20
+Settore non alimentare,Non presente,Viale,CERTOSA,135,7174,8,1000.0,0.0,1000.0,accesso esterno,61
+Settore non alimentare,Non presente,Viale,CERTOSA,36,7174,8,374.0,326.0,700.0,accesso esterno,316
+Settore non alimentare,Non presente,Viale,CERTOSA,9,7174,8,600.0,0.0,600.0,accesso esterno,335
+Settore non alimentare,Non presente,Viale,CIRENE,22,4085,4,420.0,0.0,420.0,accesso interno,142
+Settore non alimentare,Non presente,Viale,COL DI LANA,6,5198,5,470.0,0.0,470.0,Non specificato,116
+Settore non alimentare,Non presente,Viale,DI PORTA VERCELLINA,16,6213,1,388.0,0.0,388.0,accesso esterno,237
+Settore non alimentare,Non presente,Viale,DORIA ANDREA,24,2230,3,322.0,0.0,322.0,accesso interno,16
+Settore non alimentare,Non presente,Viale,EGINARDO,15,6366,8,826.0,1524.0,2350.0,accesso esterno,209
+Settore non alimentare,Non presente,Viale,ESPINASSE CARLO,106,7390,8,305.0,0.0,305.0,accesso interno,194
+Settore non alimentare,Non presente,Viale,FAMAGOSTA,44,5353,6,430.0,0.0,430.0,accesso esterno,77
+Settore non alimentare,Non presente,Via,BRIZI EUGENIO,4,4186,4,1350.0,0.0,1350.0,Non specificato,72
+Settore non alimentare,Non presente,Viale,GORIZIA,14,5156,6,400.0,400.0,800.0,accesso interno,56
+Settore non alimentare,Non presente,Viale,JENNER EDOARDO,29,1230,9,400.0,500.0,900.0,Non specificato,100
+Settore non alimentare,Non presente,Viale,LANCETTI VINCENZO,17,1221,9,1000.0,4600.0,5600.0,accesso esterno,103
+Settore non alimentare,Non presente,Viale,LIGURIA,28,5264,6,361.0,0.0,361.0,accesso esterno,156
+Settore non alimentare,Non presente,Viale,MARTINI ENRICO,9,4175,4,755.0,0.0,755.0,Non specificato,85
+Settore non alimentare,Non presente,Viale,MONTE NERO,32,3062,4,910.0,30.0,940.0,accesso esterno,134
+Settore non alimentare,Non presente,Viale,MONZA,107,2274,2,868.0,0.0,868.0,accesso esterno,294
+Settore non alimentare,Non presente,Viale,MONZA,113,2274,2,455.0,100.0,555.0,accesso esterno,293
+Settore non alimentare,Non presente,Viale,MONZA,16,2274,2,560.0,40.0,600.0,accesso interno,352
+Settore non alimentare,Non presente,Viale,MONZA,237,2274,2,414.0,0.0,414.0,accesso esterno,99
+Settore non alimentare,Non presente,Viale,MONZA,244,2274,2,470.0,0.0,470.0,accesso esterno,65
+Settore non alimentare,Non presente,Viale,MONZA,289,2274,2,272.0,106.0,378.0,accesso esterno,64
+Settore non alimentare,Non presente,Viale,MONZA,289,2274,2,584.0,0.0,584.0,area aperta recintata,64
+Settore non alimentare,Non presente,Viale,MONZA,40,2274,2,300.0,0.0,300.0,accesso esterno,332
+Settore non alimentare,Non presente,Viale,MONZA,9,2274,2,387.0,0.0,387.0,accesso esterno,346
+Settore non alimentare,Non presente,Via,PALMANOVA,65,2390,2,590.0,350.0,940.0,accesso esterno,322
+Settore non alimentare,Non presente,Viale,PASUBIO,13,1112,1,300.0,0.0,300.0,accesso esterno,318
+Settore non alimentare,Non presente,Viale,ROMOLO,9,5284,6,615.0,458.0,1073.0,Non specificato,74
+Settore non alimentare,Non presente,Viale,SABOTINO,4,4046,5,350.0,0.0,350.0,accesso interno,171
+Settore non alimentare,Non presente,Viale,STELVIO,3,1227,9,651.0,1849.0,2500.0,accesso esterno,215
+Settore non alimentare,Non presente,Viale,STELVIO,47,1227,9,600.0,400.0,1000.0,accesso esterno,204
+Settore non alimentare,Non presente,Viale,TESTI FULVIO,260,1441,9,530.0,2240.0,2770.0,accesso esterno,45
+Settore non alimentare,Non presente,Viale,TIBALDI,3,5234,5,280.0,0.0,280.0,accesso esterno,160
+Settore non alimentare,Non presente,Viale,UMBRIA,126,3145,4,490.0,0.0,490.0,accesso interno,260
+Settore non alimentare,2f climatizzazione,Via,INGANNI ANGELO,64,6672,6,264.0,36.0,300.0,accesso esterno,55
+Settore non alimentare,abbigliamento bambino,Via,BALZARETTI GIUSEPPE,28,2197,3,268.0,0.0,268.0,accesso esterno,109
+Settore non alimentare,a. bellomi,Via,LOMELLINA,64,3280,4,400.0,500.0,900.0,accesso interno,219
+Settore non alimentare,aber crombie e fich,Corso,MATTEOTTI GIACOMO,12,218,1,1496.0,690.0,2186.0,accesso esterno,316
+Settore non alimentare,ader,Via,SANTA MARIA ALLA PORTA,1,620,1,310.0,150.0,460.0,accesso esterno,346
+Settore non alimentare,a.foppapedretti l albero,Via,MAMBRETTI ANTONIO,9,7455,8,506.0,0.0,506.0,accesso esterno,118
+Settore non alimentare,aica concessionaria fiat,Via,SISMONDI GIANCARLO,70,3256,4,400.0,0.0,400.0,accesso esterno,164
+Settore non alimentare,alberto germani sportrend,Corso,VERCELLI,3,6193,7,464.0,142.0,606.0,accesso interno,236
+Settore non alimentare,alviero martini,Corso,MATTEOTTI GIACOMO,1,218,1,400.0,135.0,535.0,Non specificato,362
+Settore non alimentare,angelo cattaneo arredamen,Corso,SAN GOTTARDO,19,5203,5,300.0,200.0,500.0,accesso interno,95
+Settore non alimentare,antiquario,Via,SAN PAOLO,1,212,1,406.0,0.0,406.0,accesso esterno,349
+Settore non alimentare,arc linea,Piazza,MENTANA,3,560,1,257.0,0.0,257.0,accesso esterno,349
+Settore non alimentare,argenteria dabbene,Largo,TREVES CLAUDIO,2,1026,1,280.0,180.0,460.0,accesso esterno,247
+Settore non alimentare,armani/armani jeans,Via,MANZONI ALESSANDRO,31,230,1,409.0,0.0,409.0,accesso esterno,254
+Settore non alimentare,armani/emporio armani,Via,MANZONI ALESSANDRO,31,230,1,465.0,0.0,465.0,accesso esterno,254
+Settore non alimentare,armani giorgio retail srl,Via,MANZONI ALESSANDRO,31,230,1,257.0,0.0,257.0,accesso esterno,254
+Settore non alimentare,armani junior,Via,DURINI,24,313,1,748.0,152.0,900.0,accesso esterno,317
+Settore non alimentare,arona spa-alfaromeo fiat,Via,ARONA,15,7169,8,300.0,0.0,300.0,accesso esterno,311
+Settore non alimentare,arredamenti mobili,Via,PRINETTI LUIGI,44,2329,2,659.0,0.0,659.0,accesso esterno,282
+Settore non alimentare,artemide,Corso,MONFORTE,19,348,1,320.0,77.0,397.0,accesso esterno,190
+Settore non alimentare,aspesi,Via,MONTE NAPOLEONE,13,219,1,580.0,80.0,660.0,accesso esterno,314
+Settore non alimentare,autogiolli,Via,MEDA GIUSEPPE,27,5242,5,450.0,0.0,450.0,accesso esterno,2
+Settore non alimentare,autogrill,Via,FOSCOLO UGO,1,205,1,400.0,0.0,400.0,accesso esterno,471
+Settore non alimentare,autoplanet,Via,DEI MISSAGLIA,89,5340,5,1323.0,3969.0,5292.0,accesso esterno,86
+Settore non alimentare,autoriparazioni salvioni,Via,ARIMONDI GIUSEPPE,55,7179,8,256.0,300.0,556.0,accesso esterno,308
+Settore non alimentare,autosport milano,Via,MESSINA,43,7211,8,350.0,100.0,450.0,accesso esterno,20
+Settore non alimentare,avalon,Via,SETTEMBRINI LUIGI,20,2127,3,400.0,0.0,400.0,accesso esterno,56
+Settore non alimentare,b 612,Via,VASARI GIORGIO,2,4070,4,823.0,0.0,823.0,accesso esterno,165
+Settore non alimentare,baby mix srl.,Viale,REGINA MARGHERITA,9,3059,1,475.0,170.0,645.0,accesso esterno,36
+Settore non alimentare,balloon,Via,GIULINI GIORGIO,2,613,1,720.0,294.0,1014.0,accesso esterno,371
+Settore non alimentare,banner,Via,SANT' ANDREA,8,222,1,386.0,0.0,386.0,accesso esterno,261
+Settore non alimentare,bardelli,Corso,MAGENTA,13,604,1,747.0,86.0,833.0,accesso esterno,343
+Settore non alimentare,bassetti,Via,BOTTA CARLO,7,4069,4,600.0,0.0,600.0,accesso esterno,163
+Settore non alimentare,bassetti,Via,PROCACCINI GIULIO CESARE,32,7204,8,300.0,0.0,300.0,accesso esterno,54
+Settore non alimentare,bellani,Via,MOROSINI EMILIO,7,3073,4,265.0,0.0,265.0,accesso esterno,46
+Settore non alimentare,belmonte camiciaio italia,Via,SETTEMBRINI LUIGI,11,2127,2,295.0,0.0,295.0,accesso esterno,73
+Settore non alimentare,benetton,Largo,CORSIA DEI SERVI,11,234,1,916.0,27.0,943.0,accesso esterno,360
+Settore non alimentare,bernardi abbigliamento,Via,BASSI UGO,5,1143,9,371.0,0.0,371.0,accesso esterno,257
+Settore non alimentare,bershka,Corso,VITTORIO EMANUELE II,22,214,1,1341.0,1311.0,2652.0,accesso esterno,356
+Settore non alimentare,bershka,Via,SPADARI,1,518,1,384.0,311.0,695.0,accesso esterno,440
+Settore non alimentare,betta e cereda srl,Via,MARCO BRUTO,16,3322,4,1200.0,1500.0,2700.0,accesso esterno,55
+Settore non alimentare,blue basic,Via,TORINO,51,543,1,330.0,64.0,394.0,accesso esterno,397
+Settore non alimentare,boggi,Via,DURINI,28,313,1,650.0,0.0,650.0,accesso esterno,318
+Settore non alimentare,boggi milano e brian berr,Via,CARETTA ANNIBALE,1,2241,3,410.0,0.0,410.0,accesso esterno,8
+Settore non alimentare,borghi,Corso,VERCELLI,38,6193,7,350.0,0.0,350.0,accesso esterno,215
+Settore non alimentare,boss hugo boss,Corso,MATTEOTTI GIACOMO,11,218,1,420.0,0.0,420.0,accesso esterno,263
+Settore non alimentare,brandy,Via,S. GIOV. SUL MURO,18,609,1,380.0,0.0,380.0,accesso esterno,291
+Settore non alimentare,brico io,Via,PITAGORA,7,2405,2,1200.0,0.0,1200.0,accesso esterno,15
+Settore non alimentare,brico io,Via,QUARENGHI GIACOMO,23,7478,8,1125.0,0.0,1125.0,accesso interno,300
+Settore non alimentare,bruno castoldi,Corso,LODI,6,4068,5,1106.0,0.0,1106.0,accesso esterno,192
+Settore non alimentare,buffwtti,Foro,BUONAPARTE,53,711,1,400.0,1000.0,1400.0,accesso esterno,238
+Settore non alimentare,burberry italy retail lim,Via,BIGLI,2,224,1,750.0,332.0,1082.0,accesso esterno,342
+Settore non alimentare,buscemi dischi,Corso,MAGENTA,31,604,1,258.0,0.0,258.0,accesso esterno,341
+Settore non alimentare,cai,Via,MEDA GIUSEPPE,16,5242,5,294.0,0.0,294.0,accesso esterno,160
+Settore non alimentare,caractere,Via,PASSARELLA,4,298,1,300.0,180.0,480.0,accesso esterno,386
+Settore non alimentare,cargo (high-tech srl),Via,MEUCCI ANTONIO,41,2497,2,1244.0,2356.0,3600.0,accesso esterno,158
+Settore non alimentare,carretti hi-tech,Via,LOSANNA,46,7190,8,325.0,0.0,325.0,accesso esterno,31
+Settore non alimentare,car village,Via,GRASSI GIOVANNI BATTISTA,98,7465,8,1899.0,5697.0,7596.0,accesso esterno,62
+Settore non alimentare,castoldi,Viale,MONZA,204,2274,2,956.0,0.0,956.0,accesso esterno,102
+Settore non alimentare,cavi by nico,Piazza,MEDA FILIPPO,3,211,1,295.0,160.0,455.0,accesso esterno,363
+Settore non alimentare,cdc poin spa,Via,MONTALBINO,4,1340,9,500.0,0.0,500.0,accesso interno,79
+Settore non alimentare,celio,Galleria,BUENOS AIRES,9,2146,3,298.0,0.0,298.0,accesso esterno,60
+Settore non alimentare,celio,Via,AGNELLO,2,209,1,320.0,153.0,473.0,accesso esterno,385
+Settore non alimentare,centro marmitte,Via,IMPERIA,33,5266,6,550.0,0.0,550.0,accesso esterno,50
+Settore non alimentare,centro moda l E m,Via,ORNATO LUIGI,148,1591,9,430.0,0.0,430.0,accesso interno,34
+Settore non alimentare,cervi arredamenti,Corso,MONFORTE,19,348,1,500.0,100.0,600.0,accesso interno,994
+Settore non alimentare,chateau d ax,Corso,LODI,38,4068,5,1480.0,0.0,1480.0,accesso esterno,200
+Settore non alimentare,chateau d ax,Corso,LODI,47,4068,4,600.0,200.0,800.0,accesso esterno,182
+Settore non alimentare,christian dior,Via,MONTE NAPOLEONE,12,219,1,366.0,0.0,366.0,accesso esterno,260
+Settore non alimentare,citroen,Via,LIPARI,9,6203,7,410.0,0.0,410.0,accesso esterno,273
+Settore non alimentare,coeco elettro zanoni,Via,RISMONDO FRANCESCO,1,6756,7,360.0,0.0,360.0,accesso esterno,137
+Settore non alimentare,co. import,Piazza,DIAZ ARMANDO,6,339,1,468.0,57.0,525.0,accesso esterno,448
+Settore non alimentare,collezioni g. armani,Via,MONTE NAPOLEONE,2,219,1,610.0,0.0,610.0,accesso esterno,317
+Settore non alimentare,collezioni g. armani,Via,MONTE NAPOLEONE,2,219,1,1092.0,538.0,1630.0,accesso esterno,263
+Settore non alimentare,combipel,Via,CUNEO,4,6281,7,500.0,1030.0,1530.0,accesso esterno,214
+Settore non alimentare,conbipel,Corso,BUENOS AIRES,64,2129,3,465.0,87.0,552.0,accesso esterno,38
+Settore non alimentare,concessionari ricamb.fiat,Via,GAMBOLOITA,4,4160,4,305.0,300.0,605.0,accesso esterno,52
+Settore non alimentare,concess.lancia saicar,Viale,ESPINASSE CARLO,110,7390,8,350.0,0.0,350.0,accesso esterno,194
+Settore non alimentare,cornegliani,Via,MONTE NAPOLEONE,12,219,1,324.0,0.0,324.0,accesso esterno,260
+Settore non alimentare,corso europa emporio casa,Corso,EUROPA,2,300,1,540.0,80.0,620.0,accesso esterno,319
+Settore non alimentare,da driade,Via,MANZONI ALESSANDRO,30,230,1,872.0,20.0,892.0,accesso esterno,255
+Settore non alimentare,darty,Via,F.LLI BRONZETTI,37,3089,4,986.0,0.0,986.0,accesso esterno,40
+Settore non alimentare,darty,Viale,MURILLO S.B.,5,6551,7,1100.0,900.0,2000.0,accesso esterno,255
+Settore non alimentare,darty,Viale,SABOTINO,28,4046,5,720.0,0.0,720.0,accesso esterno,112
+Settore non alimentare,datch,Via,TORINO,34,543,1,276.0,35.0,311.0,accesso esterno,441
+Settore non alimentare,d. E  g.,Corso,VENEZIA,15,238,1,713.0,480.0,1193.0,accesso esterno,189
+Settore non alimentare,d. E  g.,Via,DELLA SPIGA,26,226,1,898.0,280.0,1178.0,accesso esterno,184
+Settore non alimentare,d. E  g.,Corso,VENEZIA,7,238,1,656.0,211.0,867.0,accesso esterno,261
+Settore non alimentare,della fonte,Corso,VERCELLI,35,6193,7,400.0,60.0,460.0,accesso esterno,235
+Settore non alimentare,denicar spa.,Via,BISCEGLIE,92,6707,6,847.0,0.0,847.0,accesso esterno,53
+Settore non alimentare,dev,Corso,VERCELLI,8,6193,7,281.0,0.0,281.0,accesso esterno,217
+Settore non alimentare,diecidecimi spazi moda,Corso,BUENOS AIRES,36,2129,3,398.0,242.0,640.0,accesso interno,79
+Settore non alimentare,docks dora,Via,TOFFETTI VINCENZO,9,4188,4,393.0,0.0,393.0,accesso interno,74
+Settore non alimentare,dolce e gabbana,Via,DELLA SPIGA,2,226,1,392.0,0.0,392.0,accesso esterno,189
+Settore non alimentare,dolomiti sport,Piazza,DEL DUOMO,17,1,1,286.0,0.0,286.0,accesso esterno,436
+Settore non alimentare,ecliss,Ripa,DI PTA TICINESE,73,5150,6,300.0,0.0,300.0,accesso interno,68
+Settore non alimentare,ecliss top garden,Ripa,DI PTA TICINESE,73,5150,6,270.0,0.0,270.0,accesso esterno,68
+Settore non alimentare,edil piave srl,Via,CAMOZZI GABRIELE,7,6769,7,340.0,1660.0,2000.0,accesso esterno,133
+Settore non alimentare,elettrica ceriani/murrina,Viale,CERTOSA,177,7174,8,391.0,0.0,391.0,accesso esterno,222
+Settore non alimentare,e.manfredini-forniture id,Via,FERRARIS GALILEO,7,7237,8,500.0,0.0,500.0,accesso esterno,19
+Settore non alimentare,emporio del libro,Galleria,BUENOS AIRES,13,2146,3,430.0,30.0,460.0,accesso esterno,60
+Settore non alimentare,emporio isola,Via,PRINA GIUSEPPE,11,7135,8,400.0,0.0,400.0,accesso interno,102
+Settore non alimentare,energia,Via,TORINO,19,543,1,550.0,200.0,750.0,accesso esterno,446
+Settore non alimentare,etro,Via,MONTE NAPOLEONE,5,219,1,365.0,0.0,365.0,accesso esterno,315
+Settore non alimentare,euroarredi,Via,PASTORELLI GIOVANNI,19,5274,6,1200.0,15.0,1215.0,accesso esterno,61
+Settore non alimentare,euromics galimberti,Corso,BUENOS AIRES,64,2129,3,1100.0,0.0,1100.0,accesso esterno,27
+Settore non alimentare,euromics galimberti,Via,SOLARI ANDREA,5,5111,6,1157.0,0.0,1157.0,accesso esterno,26
+Settore non alimentare,euronics,Viale,VITTORIO VENETO,20,2107,2,481.0,0.0,481.0,accesso esterno,134
+Settore non alimentare,euronics point,Viale,ARETUSA,37,6565,7,270.0,63.0,333.0,accesso esterno,3
+Settore non alimentare,evolution,Via,LACAITA GIACOMO FILIPPO,2,4308,4,375.0,0.0,375.0,accesso interno,76
+Settore non alimentare,femi rinaldi sonepar,Via,SOTTOCORNO PASQUALE,52,3152,4,350.0,0.0,350.0,accesso esterno,19
+Settore non alimentare,ferrari,Piazza,DEL LIBERTY,8,98,1,596.0,244.0,840.0,accesso esterno,361
+Settore non alimentare,fiat succ. vendita assist,Via,GROSIO,9,7483,8,675.0,17183.0,17858.0,accesso esterno,202
+Settore non alimentare,fined finanz.editoriale,Piazza,PIEMONTE,2,6254,7,1973.0,827.0,2800.0,Non specificato,133
+Settore non alimentare,finporte snc,Via,WILDT ADOLFO,2,2554,3,340.0,52.0,392.0,accesso interno,18
+Settore non alimentare,f.lli civeni ass. e vend.,Via,CORREGGIO,8,6287,7,498.0,70.0,568.0,accesso interno,173
+Settore non alimentare,flli fumagalli garden,Via,BOLZANO,1,2312,2,382.0,0.0,382.0,accesso esterno,120
+Settore non alimentare,f.lli simoni snc.,Viale,MONZA,258,2274,2,550.0,0.0,550.0,accesso esterno,40
+Settore non alimentare,fondamentali,Via,MANZONI ALESSANDRO,12,230,1,349.0,0.0,349.0,accesso esterno,363
+Settore non alimentare,fondazione metropolitan,Via,SANT' EUFEMIA,25,405,1,550.0,0.0,550.0,accesso esterno,271
+Settore non alimentare,fontana arredamenti,Via,VIGEVANO,22,5116,6,256.0,0.0,256.0,accesso esterno,52
+Settore non alimentare,frette,Corso,VERCELLI,23,6193,7,340.0,55.0,395.0,accesso esterno,235
+Settore non alimentare,frette,Via,ANDEGARI,18,120,1,480.0,0.0,480.0,accesso esterno,296
+Settore non alimentare,frigerio gomme,Piazzale,SUSA,12,3101,4,400.0,20.0,420.0,accesso esterno,214
+Settore non alimentare,frigerio pellicce,Corso,BUENOS AIRES,41,2129,3,500.0,0.0,500.0,accesso esterno,59
+Settore non alimentare,fulgida srl,Via,LEPONTINA,2,1147,9,968.0,500.0,1468.0,accesso interno,205
+Settore non alimentare,gabbai,Via,PISANI VITTOR,8,1201,2,350.0,0.0,350.0,accesso esterno,93
+Settore non alimentare,galbiati arreda,Viale,CERTOSA,21,7174,8,1016.0,0.0,1016.0,accesso esterno,330
+Settore non alimentare,galleria carla sozzani,Corso,COMO,10,1111,9,550.0,0.0,550.0,accesso interno,322
+Settore non alimentare,garage porpora autofficin,Via,TEODOSIO,55,2550,3,300.0,350.0,650.0,accesso esterno,15
+Settore non alimentare,gbc componenti elettronic,Corso,BUENOS AIRES,55,2129,3,288.0,0.0,288.0,accesso esterno,35
+Settore non alimentare,gb sportelli,Corso,BUENOS AIRES,23,2129,3,381.0,64.0,445.0,accesso esterno,78
+Settore non alimentare,geco sanitari,Via,SAN MAMETE,54,2413,2,548.0,0.0,548.0,accesso esterno,142
+Settore non alimentare,germani sport,Corso,VERCELLI,18,6193,7,780.0,156.0,936.0,accesso esterno,216
+Settore non alimentare,germani sport,Piazzetta,PATTARI,4,299,1,954.0,0.0,954.0,accesso esterno,387
+Settore non alimentare,germani sport,Viale,TROYA CARLO,5,5140,6,475.0,0.0,475.0,accesso esterno,23
+Settore non alimentare,giacomelli sport,Piazza,ARGENTINA,4,2233,3,891.0,259.0,1150.0,accesso esterno,19
+Settore non alimentare,giaguaro srl,Viale,CASSALA,61,5275,6,400.0,400.0,800.0,accesso esterno,67
+Settore non alimentare,gianfranco ferre,Via,SANT' ANDREA,15,222,1,289.0,0.0,289.0,accesso esterno,260
+Settore non alimentare,gianni campagna,Via,PALESTRO,24,2102,1,500.0,0.0,500.0,accesso esterno,95
+Settore non alimentare,gio moretti jenny,Via,DELLA SPIGA,4,226,1,745.0,0.0,745.0,accesso esterno,189
+Settore non alimentare,giorgio armani,Via,SANT' ANDREA,9,222,1,1040.0,724.0,1764.0,accesso esterno,260
+Settore non alimentare,giovenzana,Largo,AUGUSTO,10,315,1,273.0,41.0,314.0,accesso esterno,267
+Settore non alimentare,giussani,Via,ROSSI PELLEGRINO,80,1510,9,499.0,0.0,499.0,accesso esterno,183
+Settore non alimentare,gold market,Via,GUINIZELLI GUIDO,22,2281,2,480.0,210.0,690.0,accesso esterno,348
+Settore non alimentare,golf house,Via,GALLARATE,221,7420,8,400.0,0.0,400.0,accesso esterno,179
+Settore non alimentare,gottardo sport,Corso,SAN GOTTARDO,19,5203,5,283.0,0.0,283.0,accesso esterno,95
+Settore non alimentare,grimaldi motors,Via,FERRUCCI FRANCESCO,6,7150,8,380.0,44.0,424.0,accesso esterno,85
+Settore non alimentare,gucci,Via,MONTE NAPOLEONE,5,219,1,1482.0,947.0,2429.0,accesso esterno,315
+Settore non alimentare,guess,Galleria,SAN BABILA,4,360,1,450.0,50.0,500.0,accesso esterno,264
+Settore non alimentare,guess,Via,DANTE ALIGHIERI,7,612,1,311.0,174.0,485.0,accesso esterno,375
+Settore non alimentare,guess,Via,MELZO,36,2184,3,320.0,0.0,320.0,accesso esterno,140
+Settore non alimentare,gusella,Corso,VITTORIO EMANUELE II,37,214,1,280.0,0.0,280.0,accesso esterno,316
+Settore non alimentare,hass dal 1811,Via,MEDA GIUSEPPE,52,5242,5,380.0,0.0,380.0,accesso esterno,8
+Settore non alimentare,hb casa,Viale,MONTE CENERI,75,7176,8,417.0,0.0,417.0,accesso esterno,331
+Settore non alimentare,h  E  m,Corso,VITTORIO EMANUELE II,1,214,1,950.0,329.0,1279.0,accesso esterno,419
+Settore non alimentare,h.e m. abbigliamento,Galleria,PASSARELLA,1,303,1,1708.0,492.0,2200.0,accesso esterno,360
+Settore non alimentare,hermes,Via,SANT' ANDREA,21,222,1,317.0,196.0,513.0,accesso esterno,260
+Settore non alimentare,hi-fi,Piazza,DE ANGELI ERNESTO,1,6276,7,290.0,0.0,290.0,accesso esterno,218
+Settore non alimentare,iceberg,Via,MONTE NAPOLEONE,10,219,1,271.0,0.0,271.0,accesso esterno,260
+Settore non alimentare,idea bricolage,Via,MAFFUCCI ANGIOLO,4,1276,9,390.0,0.0,390.0,accesso esterno,63
+Settore non alimentare,il bagno ideale,Via,SAN SISTO,3,513,1,254.0,0.0,254.0,accesso esterno,335
+Settore non alimentare,il caminetto,Via,ENNIO,6,4090,4,269.0,0.0,269.0,accesso esterno,121
+Settore non alimentare,il libraccio,Via,SANTA TECLA,5,321,1,260.0,0.0,260.0,accesso esterno,389
+Settore non alimentare,il pentagono,Viale,LIGURIA,40,5264,6,600.0,0.0,600.0,accesso esterno,157
+Settore non alimentare,interno ipercoop,Via,QUARENGHI GIACOMO,23,7478,8,390.0,0.0,390.0,accesso interno,300
+Settore non alimentare,jannelli e volpi,Via,MELZO,7,2184,3,300.0,0.0,300.0,accesso esterno,150
+Settore non alimentare,jil sander,Via,VERRI PIETRO,6,223,1,400.0,0.0,400.0,accesso esterno,362
+Settore non alimentare,just cavalli,Via,DELLA SPIGA,30,226,1,343.0,149.0,492.0,accesso esterno,184
+Settore non alimentare,koivu,Corso,EUROPA,12,300,1,770.0,0.0,770.0,accesso esterno,317
+Settore non alimentare,la casa italiana,Viale,ELVEZIA,22,7085,1,309.0,357.0,666.0,area aperta recintata,126
+Settore non alimentare,la libreria dei ragazzi,Via,TADINO ALESSANDRO,53,2109,3,300.0,300.0,600.0,accesso esterno,66
+Settore non alimentare,lalique,Corso,MATTEOTTI GIACOMO,3,218,1,252.0,10.0,262.0,accesso esterno,362
+Settore non alimentare,lancia,Via,MEDA GIUSEPPE,11,5242,5,550.0,0.0,550.0,accesso esterno,130
+Settore non alimentare,land rover,Piazza,NAPOLI,2,5131,6,741.0,0.0,741.0,accesso esterno,1
+Settore non alimentare,la rinascente,Via,SANTA RADEGONDA,10,208,1,1490.0,0.0,1490.0,accesso esterno,419
+Settore non alimentare,la rinascente,Corso,VITTORIO EMANUELE II,11,214,1,280.0,0.0,280.0,accesso esterno,419
+Settore non alimentare,larusmiani,Via,VERRI PIETRO,10,223,1,500.0,0.0,500.0,accesso esterno,183
+Settore non alimentare,le copen,Via,MANZONI ALESSANDRO,21,230,1,351.0,170.0,521.0,accesso esterno,313
+Settore non alimentare,libero srl.,Via,OSOPPO,21,6596,7,317.0,0.0,317.0,accesso interno,1
+Settore non alimentare,libreria del corso,Corso,BUENOS AIRES,51,2129,3,666.0,121.0,787.0,accesso esterno,44
+Settore non alimentare,libreria egea,Via,BOCCONI FERDINANDO,8,4050,5,733.0,0.0,733.0,accesso esterno,102
+Settore non alimentare,libreria esoterica,Galleria,UNIONE,1,510,1,300.0,0.0,300.0,accesso esterno,470
+Settore non alimentare,libreria intern. cavour,Piazza,CAVOUR,1,237,1,290.0,80.0,370.0,accesso esterno,93
+Settore non alimentare,libreria rizzoli,Galleria,VITTORIO EMANUELE,79,10,1,1015.0,285.0,1300.0,accesso esterno,415
+Settore non alimentare,libreria san paolo,Piazza,DEL DUOMO,20,1,1,406.0,158.0,564.0,accesso interno,420
+Settore non alimentare,libri e cose,Via,QUARENGHI GIACOMO,23,7478,8,263.0,2.0,265.0,accesso interno,300
+Settore non alimentare,liu.jo,Corso,VITTORIO EMANUELE II,30,214,1,277.0,0.0,277.0,accesso esterno,360
+Settore non alimentare,louis vuitton,Via,MONTE NAPOLEONE,2,219,1,1026.0,506.0,1532.0,accesso esterno,263
+Settore non alimentare,lucky music strumenti m.,Via,SODERINI LUIGI,54,6675,6,488.0,0.0,488.0,accesso esterno,58
+Settore non alimentare,magia 2,Via,GUINTELLINO GUGLIELMO,26,5369,6,333.0,0.0,333.0,accesso esterno,27
+Settore non alimentare,mango,Via,TORINO,21,543,1,748.0,452.0,1200.0,accesso esterno,446
+Settore non alimentare,marco polo expert,Via,CANONICA LUIGI,55,7121,1,1000.0,908.0,1908.0,accesso esterno,112
+Settore non alimentare,marina rinaldi,Galleria,PASSARELLA,2,303,1,600.0,0.0,600.0,accesso esterno,360
+Settore non alimentare,marionnaud parfumeries,Viale,MONZA,2,2274,2,344.0,204.0,548.0,accesso esterno,352
+Settore non alimentare,master special,Via,QUARENGHI GIACOMO,23,7478,8,290.0,0.0,290.0,accesso interno,300
+Settore non alimentare,matuella,Via,CASTALDI PANFILO,41,2119,3,380.0,250.0,630.0,accesso esterno,131
+Settore non alimentare,max  E  co,Piazza,DEL LIBERTY,4,98,1,746.0,0.0,746.0,accesso esterno,361
+Settore non alimentare,max  E  co,Via,DANTE ALIGHIERI,7,612,1,270.0,0.0,270.0,accesso esterno,375
+Settore non alimentare,max  E  co,Corso,GENOVA,16,5164,1,585.0,173.0,758.0,accesso esterno,218
+Settore non alimentare,maxmara,Piazza,SAN BABILA,5,216,1,1039.0,310.0,1349.0,accesso esterno,261
+Settore non alimentare,maxmara,Piazza,DEL LIBERTY,4,98,1,1415.0,710.0,2125.0,accesso esterno,361
+Settore non alimentare,m.c. selvini,Via,POERIO CARLO,3,3181,3,508.0,292.0,800.0,accesso esterno,175
+Settore non alimentare,meazza,Via,SAN SISTO,9,513,1,470.0,350.0,820.0,accesso esterno,335
+Settore non alimentare,media world,Piazzale,LODI,3,4249,4,1981.0,750.0,2731.0,accesso interno,181
+Settore non alimentare,media world,Via,LORENTEGGIO,230,5132,6,930.0,436.0,1366.0,accesso esterno,51
+Settore non alimentare,media world,Viale,TROYA CARLO,18,5140,6,2350.0,8850.0,11200.0,accesso interno,166
+Settore non alimentare,melablu,Piazzale,LODI,3,4249,4,820.0,203.0,1023.0,accesso esterno,151
+Settore non alimentare,melablu,Via,OROPA,4,2381,2,1107.0,143.0,1250.0,accesso esterno,15
+Settore non alimentare,melchionni diffusione,Via,PINDARO,7,2401,2,470.0,42.0,512.0,accesso esterno,33
+Settore non alimentare,mercato dell usato,Via,CAPECELATRO ALFONSO,9,6575,7,255.0,0.0,255.0,accesso esterno,278
+Settore non alimentare,mercedes benz,Via,DAIMLER GOTTLIEB WILHELM,1,7587,8,958.0,6707.0,7665.0,accesso esterno,122
+Settore non alimentare,mercedes benz milano,Via,PADOVA,15,2275,2,450.0,0.0,450.0,accesso esterno,352
+Settore non alimentare,mercedes benz milano,Via,TITO LIVIO,30,4086,4,255.0,0.0,255.0,accesso esterno,146
+Settore non alimentare,midas,Via,LORENTEGGIO,264,5132,6,607.0,0.0,607.0,accesso esterno,86
+Settore non alimentare,milano star mercedes benz,Via,TITO LIVIO,28,4086,4,277.0,0.0,277.0,accesso esterno,146
+Settore non alimentare,mitsubishi motors,Viale,CERTOSA,148,7174,8,485.0,0.0,485.0,accesso esterno,220
+Settore non alimentare,mobili cucine divani,Via,LEONCAVALLO RUGGERO,17,2389,2,1000.0,0.0,1000.0,accesso esterno,114
+Settore non alimentare,mobili vercesi,Viale,MONZA,23,2274,2,395.0,75.0,470.0,accesso esterno,346
+Settore non alimentare,mondadori informatica,Via,BERCHET GIOVANNI,2,206,1,1464.0,0.0,1464.0,accesso esterno,416
+Settore non alimentare,mondadori multicenter,Via,DOGANA,2,341,1,2300.0,1908.0,4208.0,Non specificato,450
+Settore non alimentare,mornata art decor,Via,MOLINO DELLE ARMI,49,591,1,270.0,0.0,270.0,accesso esterno,126
+Settore non alimentare,morotti arredamenti,Viale,MONZA,75,2274,2,366.0,202.0,568.0,accesso esterno,322
+Settore non alimentare,muji,Corso,BUENOS AIRES,36,2129,3,505.0,0.0,505.0,accesso esterno,79
+Settore non alimentare,nadine,Galleria,PASSARELLA,2,303,1,382.0,90.0,472.0,accesso esterno,360
+Settore non alimentare,natuzzi,Via,DURINI,24,313,1,748.0,152.0,900.0,accesso esterno,318
+Settore non alimentare,nuova eco srl.,Via,PETROCCHI POLICARPO,36,2320,2,705.0,0.0,705.0,accesso esterno,187
+Settore non alimentare,opel gerli,Viale,TESTI FULVIO,22,1441,9,1440.0,2000.0,3440.0,accesso esterno,156
+Settore non alimentare,oviesse,Galleria,PASSARELLA,2,303,1,750.0,0.0,750.0,accesso esterno,360
+Settore non alimentare,oviesse,Via,CANTONI GIOVANNI,7,6206,7,1000.0,0.0,1000.0,accesso esterno,188
+Settore non alimentare,oviesse,Via,MONCALIERI,15,1095,9,870.0,300.0,1170.0,accesso esterno,128
+Settore non alimentare,pabocar service,Via,MONVISO,34,7212,8,390.0,0.0,390.0,accesso esterno,55
+Settore non alimentare,peugeot,Via,GALLARATE,199,7420,8,1495.0,0.0,1495.0,accesso esterno,202
+Settore non alimentare,photodiscount,Piazza,DE ANGELI ERNESTO,3,6276,7,292.0,0.0,292.0,accesso esterno,218
+Settore non alimentare,piaggio,Corso,SEMPIONE,43,7137,8,434.0,0.0,434.0,accesso esterno,83
+Settore non alimentare,picking pack service,Largo,AUGUSTO,8,315,1,380.0,0.0,380.0,accesso esterno,320
+Settore non alimentare,pimkie,Via,BOSCOVICH RUGGERO,58,2131,3,399.0,0.0,399.0,accesso esterno,78
+Settore non alimentare,pisotti,Alzaia,NAVIGLIO GRANDE,98,5144,6,875.0,0.0,875.0,accesso interno,49
+Settore non alimentare,porsche,Viale,LANCETTI VINCENZO,46,1221,9,300.0,0.0,300.0,area aperta recintata,97
+Settore non alimentare,prada,Galleria,VITTORIO EMANUELE,63,10,1,720.0,0.0,720.0,accesso esterno,354
+Settore non alimentare,prada,Via,MONTE NAPOLEONE,6,219,1,600.0,0.0,600.0,accesso esterno,262
+Settore non alimentare,prada,Via,MONTE NAPOLEONE,8,219,1,500.0,0.0,500.0,accesso esterno,262
+Settore non alimentare,prenatal,Corso,BUENOS AIRES,28,2129,3,500.0,0.0,500.0,accesso esterno,82
+Settore non alimentare,prenatal,Corso,SAN GOTTARDO,11,5203,5,270.0,21.0,291.0,accesso esterno,95
+Settore non alimentare,prodotti per non vedenti,Via,GIOVANNI DA PROCIDA,6,7151,8,450.0,0.0,450.0,accesso interno,85
+Settore non alimentare,proto arredamenti,Via,VESPRI SICILIANI,51,5137,6,384.0,0.0,384.0,accesso interno,148
+Settore non alimentare,punto market,Via,PIRANESI GIOVANNI BATTISTA,4,3263,4,600.0,764.0,1364.0,accesso esterno,274
+Settore non alimentare,ramsa,Via,QUARTO CAGNINO,24,6313,7,570.0,0.0,570.0,accesso esterno,38
+Settore non alimentare,renco di macri  roberto,Corso,VENEZIA,29,238,1,260.0,214.0,474.0,accesso esterno,186
+Settore non alimentare,replay,Largo,CORSIA DEI SERVI,11,234,1,808.0,0.0,808.0,accesso esterno,360
+Settore non alimentare,ricordi media store,Via,FOSCOLO UGO,3,205,1,2086.0,424.0,2510.0,accesso esterno,480
+Settore non alimentare,ricordi media store,Corso,BUENOS AIRES,33,2129,3,1190.0,553.0,1743.0,accesso esterno,59
+Settore non alimentare,riparaz. contachilometri,Via,MUSSI GIUSEPPE,5,7199,8,252.0,0.0,252.0,accesso interno,56
+Settore non alimentare,ronchi arredamenti snc,Via,LIPPI FILIPPINO,19,2196,3,277.0,0.0,277.0,accesso esterno,45
+Settore non alimentare,sagam,Viale,TESTI FULVIO,260,1441,9,440.0,640.0,1080.0,area aperta recintata,45
+Settore non alimentare,salina albera,Via,MAMBRETTI ANTONIO,29,7455,8,260.0,0.0,260.0,accesso esterno,112
+Settore non alimentare,salmoiraghi vigano,Piazza,SAN BABILA,3,216,1,531.0,132.0,663.0,accesso esterno,316
+Settore non alimentare,saro,Via,DE AMICIS EDMONDO,20,574,1,440.0,2362.0,2802.0,accesso esterno,220
+Settore non alimentare,schiffini,Via,PASSIONE,2,3033,1,328.0,0.0,328.0,accesso esterno,194
+Settore non alimentare,sempione,Corso,SEMPIONE,6,7137,1,414.0,40.0,454.0,accesso esterno,136
+Settore non alimentare,sisley,Galleria,PASSARELLA,1,303,1,437.0,17.0,454.0,accesso esterno,360
+Settore non alimentare,sisley,Via,DOGANA,4,341,1,1076.0,519.0,1595.0,accesso esterno,447
+Settore non alimentare,smart,Galleria,SAN BABILA,4,360,1,450.0,0.0,450.0,accesso esterno,264
+Settore non alimentare,sonia cars,Via,CASORETTO,45,2420,3,280.0,0.0,280.0,accesso esterno,6
+Settore non alimentare,sony italia spa.,Via,MANZONI ALESSANDRO,31,230,1,573.0,0.0,573.0,accesso esterno,254
+Settore non alimentare,spaccio aziendale,Via,QUINTILIANO MARCO FABIO,33,3358,4,252.0,0.0,252.0,area aperta recintata,73
+Settore non alimentare,spaccio zucchi,Via,F.LLI LORENZETTI,4,6604,7,254.0,0.0,254.0,accesso interno,10
+Settore non alimentare,spazio fitecarraldo,Corso,DI PORTA ROMANA,132,402,1,439.0,835.0,1274.0,accesso esterno,39
+Settore non alimentare,spazionavigli,Via,ALESSANDRIA,3,5109,6,300.0,0.0,300.0,accesso esterno,52
+Settore non alimentare,splendori,Corso,MONFORTE,2,348,1,260.0,0.0,260.0,accesso esterno,264
+Settore non alimentare,spotorno car srl,Viale,TESTI FULVIO,29,1441,9,323.0,0.0,323.0,accesso esterno,141
+Settore non alimentare,spotti modern living,Viale,PIAVE,27,2179,1,393.0,0.0,393.0,accesso esterno,152
+Settore non alimentare,stefanel,Piazza,DEL DUOMO,21,1,1,460.0,39.0,499.0,accesso esterno,471
+Settore non alimentare,supermarket del legno,Via,LORENTEGGIO,246,5132,6,1128.0,0.0,1128.0,accesso esterno,51
+Settore non alimentare,super union,Via,MAESTRI CAMPIONESI,25,3197,4,370.0,0.0,370.0,accesso esterno,74
+Settore non alimentare,susa auto silo,Via,GOZZI GASPARE,5,3104,3,800.0,5690.0,6490.0,accesso esterno,183
+Settore non alimentare,sveziacar spa,Via,KULISCIOFF ANNA,6,6812,6,520.0,0.0,520.0,accesso esterno,53
+Settore non alimentare,tecno,Via,BIGLI,22,224,1,445.0,0.0,445.0,accesso esterno,314
+Settore non alimentare,tenda davide cenci,Via,MANZONI ALESSANDRO,7,230,1,278.0,0.0,278.0,accesso esterno,364
+Settore non alimentare,terranova,Via,TORINO,61,543,1,525.0,358.0,883.0,Non specificato,399
+Settore non alimentare,tessuti raponi,Via,RONCHI,2,2655,3,531.0,519.0,1050.0,accesso esterno,93
+Settore non alimentare,tiffany,Via,DELLA SPIGA,19,226,1,266.0,0.0,266.0,accesso esterno,260
+Settore non alimentare,tod s,Via,DELLA SPIGA,22,226,1,495.0,425.0,920.0,accesso esterno,184
+Settore non alimentare,treesse sport,Piazza,SANTA MARIA BELTRADE,2,514,1,870.0,194.0,1064.0,accesso esterno,447
+Settore non alimentare,trevisan  E  c.,Corso,GENOVA,20,5164,1,630.0,31.0,661.0,accesso esterno,133
+Settore non alimentare,trussardi,Piazza,DELLA SCALA,5,201,1,300.0,0.0,300.0,accesso esterno,479
+Settore non alimentare,tutto chicco,Corso,BUENOS AIRES,75,2129,3,575.0,305.0,880.0,accesso esterno,7
+Settore non alimentare,united colors of benetton,Corso,VERCELLI,8,6193,7,2228.0,1766.0,3994.0,accesso esterno,217
+Settore non alimentare,upim,Via,QUARENGHI GIACOMO,23,7478,8,1490.0,346.0,1836.0,accesso interno,300
+Settore non alimentare,valentino,Via,MONTE NAPOLEONE,20,219,1,613.0,369.0,982.0,accesso esterno,258
+Settore non alimentare,vannucci,Galleria,SAN BABILA,4,360,1,380.0,125.0,505.0,accesso esterno,264
+Settore non alimentare,varco spa.,Via,DELL' INNOMINATO,2,5414,5,664.0,6476.0,7140.0,accesso esterno,82
+Settore non alimentare,vergelio,Via,PASSARELLA,4,298,1,345.0,0.0,345.0,accesso esterno,386
+Settore non alimentare,verzeri,Via,VILLAPIZZONE,12,7272,8,252.0,0.0,252.0,accesso esterno,171
+Settore non alimentare,vetrofania,Via,DURINI,23,313,1,514.0,542.0,1056.0,accesso esterno,317
+Settore non alimentare,vodafone one,Via,OREFICI,2,547,1,337.0,0.0,337.0,accesso esterno,436
+Settore non alimentare,volvo sveziacar,Viale,TOSCANA,31,4210,5,965.0,0.0,965.0,accesso esterno,168
+Settore non alimentare,white star adventure,Via,DEGLI OMENONI,2,233,1,558.0,39.0,597.0,accesso esterno,383
+Settore non alimentare,willy sport,Via,LAMARMORA ALFONSO,21,4103,1,266.0,0.0,266.0,accesso esterno,114
+Settore non alimentare,yves saint laurent,Via,MONTE NAPOLEONE,27,219,1,632.0,0.0,632.0,accesso esterno,314
+Settore non alimentare,zara,Corso,BUENOS AIRES,54,2129,3,1200.0,709.0,1909.0,accesso esterno,45
+Settore non alimentare,zara,Corso,VITTORIO EMANUELE II,11,214,1,2500.0,200.0,2700.0,accesso esterno,361
+Settore non alimentare,zara,Via,TORINO,2,543,1,1143.0,340.0,1483.0,accesso esterno,438
+Settore non alimentare,zucchi store,Via,FOSCOLO UGO,4,205,1,700.0,0.0,700.0,accesso esterno,416
+Settore carburanti,Non presente,Via,ROSSI PELLEGRINO,93,1510,9,910.0,32.0,942.0,accesso esterno,153
+Settore carburanti,Non presente,Via,SANT' ARNALDO,26,1663,9,600.0,300.0,900.0,accesso esterno,63
+Settore carburanti,castelli elaborazioni elt,Via,DE MARCHI EMILIO,37,1418,2,380.0,0.0,380.0,accesso esterno,64
+Settore di monopolio,Non presente,Piazza,DEL DUOMO,25,1,1,601.0,0.0,601.0,accesso esterno,416
+Settore di monopolio,Non presente,Via,MACCHI MAURO,42,2133,2,350.0,475.0,825.0,accesso interno,31
+Settore carburanti,Non presente,Via,GALLARATE,40,7420,8,800.0,100.0,900.0,accesso esterno,228
+Settore farmaceutico,farmacia,Via,MAFFUCCI ANGIOLO,40,1276,9,462.0,291.0,753.0,accesso interno,259
+Settore farmaceutico,farmacia cassiodoro,Viale,CASSIODORO,12,6359,8,591.0,185.0,776.0,accesso esterno,151
+Settore farmaceutico,farmacia scevola,Viale,TESTI FULVIO,90,1441,9,397.0,227.0,624.0,accesso esterno,145
